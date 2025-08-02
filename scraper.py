@@ -66,7 +66,7 @@ first_it = True
 for url in urls:
     print(f"scraping {url}")
     driver.get(url)
-    if driver.current_url.startswith("validate"):
+    if driver.current_url.startswith("https://validate"):
         print(f"Bot detection {driver.current_url}")
         continue
     sleep(5)
