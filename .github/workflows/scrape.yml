@@ -3,8 +3,7 @@ name: Yad2 Selenium Scraper
 on:
   workflow_dispatch:
   schedule:
-    # Every 20 minutes from 06:00–23:40 Israel time (IDT = UTC+3 in Aug 2025)
-    - cron: "*/20 3-20 * * *"  # UTC times => 06:00–23:40 IDT
+    - cron: "*/30 5-16 * * 0-5"
 
 jobs:
   scrape:

@@ -1,12 +1,15 @@
 import json
-from json.decoder import JSONDecodeError
 import os
+import random
+import requests
+
+from json.decoder import JSONDecodeError
+from dotenv import load_dotenv
+from time import sleep
+
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
-from time import sleep
-import requests
-from dotenv import load_dotenv
 
 load_dotenv()
 TG_API = os.getenv('TG_API')
@@ -15,18 +18,31 @@ CHAT_ID = os.getenv('CHAT_ID')
 LISTINGS_FILE = 'listings.json'
 CONFIG_FILE = 'config.json'
 
+UA_POOL = [
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+]
+
+ua = random.choice(UA_POOL)
+
 options = Options()
 options.add_argument('--headless=new')
 options.add_argument('--disable-gpu')
 options.add_argument("--window-size=780,1080")
 options.add_argument('--disable-dev-shm-usage')
-options.add_argument('--remote-debugging-port=9222')
-options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36")
+options.add_argument("--disable-blink-features=AutomationControlled")
+options.add_argument(f"user-agent={ua}")
 options.add_argument('--no-sandbox')
 options.add_argument("--disable-logging")
 options.add_argument("--log-level=3")
 
 driver = webdriver.Chrome(options=options)
+driver.set_page_load_timeout(10)
+driver.execute_script("Object.defineProperty(navigator, 'webdriver', {get: () => undefined})")
+driver.execute_cdp_cmd("Emulation.setTimezoneOverride", {"timezoneId": "Asia/Jerusalem"})
+driver.execute_cdp_cmd("Emulation.setLocaleOverride", {"locale": "he-IL"})
 
 if os.path.exists(LISTINGS_FILE):
     try:
@@ -48,8 +64,13 @@ urls = [area["url"] for area in config["areas"]]
 
 first_it = True
 for url in urls:
+    print(f"scraping {url}")
     driver.get(url)
+    if driver.current_url.startswith("validate"):
+        print(f"Bot detection {driver.current_url}")
+        continue
     sleep(5)
+
     if first_it:
         # luring the popup in
         driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
@@ -99,6 +120,9 @@ for url in urls:
 
         except Exception as e:
             print(f"Error extracting listing: {e}")
+
+    sleep(4)
+    driver.refresh()
 
 driver.quit()
 
