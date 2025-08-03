@@ -1377,5 +1377,61 @@
     "address": "אינטרנשיונל",
     "price": "₪ 2,500",
     "details": "3.5 חדרים • קומה 2 • 70 מ״ר"
+  },
+  {
+    "url": "https://www.yad2.co.il/realestate/item/iehdm55c?opened-from=feed&component-type=main_feed&spot=standard&location=8",
+    "img": "https://img.yad2.co.il/Pic/202508/03/2_2/o/y2_1pa_010213_20250803101733.jpeg",
+    "address": "שדרות הל\"ה 3",
+    "price": "₪ 3,000",
+    "details": "2.5 חדרים • קומה 1 • 80 מ״ר"
+  },
+  {
+    "url": "https://www.yad2.co.il/realestate/item/bh1khr1r?opened-from=feed&component-type=main_feed&spot=standard&location=9",
+    "img": "https://img.yad2.co.il/Pic/202503/25/2_2/o/y2_1_05139_20250325110453.jpeg",
+    "address": "זלמן שניאור 31",
+    "price": "₪ 2,800",
+    "details": "2.5 חדרים • קומה 3 • 60 מ״ר"
+  },
+  {
+    "url": "https://www.yad2.co.il/realestate/item/wf1i2rxu?opened-from=feed&component-type=main_feed&spot=standard&location=10",
+    "img": "https://img.yad2.co.il/Pic/202507/14/2_2/o/y2_1pa_010269_20250714163540.jpeg",
+    "address": "יהודה בורלא 14",
+    "price": "₪ 2,800",
+    "details": "2 חדרים • קומה 4 • 55 מ״ר"
+  },
+  {
+    "url": "https://www.yad2.co.il/realestate/item/fob0hs5a?opened-from=feed&component-type=main_feed&spot=standard&location=11",
+    "img": "https://img.yad2.co.il/Pic/202502/28/2_2/o/y2_1_05983_20250228105910.jpeg",
+    "address": "ברנר 1",
+    "price": "₪ 3,000",
+    "details": "3 חדרים • קומה 1 • 72 מ״ר"
+  },
+  {
+    "url": "https://www.yad2.co.il/realestate/item/5cxom91v?opened-from=feed&component-type=main_feed&spot=standard&location=12",
+    "img": "https://img.yad2.co.il/Pic/202508/01/2_2/o/y2_1pa_010456_20250801104339.jpeg",
+    "address": "נתן קומוי 6",
+    "price": "₪ 2,600",
+    "details": "2 חדרים • קומה קרקע • 40 מ״ר"
+  },
+  {
+    "url": "https://www.yad2.co.il/realestate/item/koqnlwvm?opened-from=feed&component-type=main_feed&spot=standard&location=13",
+    "img": "https://img.yad2.co.il/Pic/202507/31/2_2/o/y2_1pa_010683_20250731151546.jpeg",
+    "address": "ברנר 3",
+    "price": "₪ 2,900",
+    "details": "2 חדרים • קומה 4 • 41 מ״ר"
+  },
+  {
+    "url": "https://www.yad2.co.il/realestate/item/h8blg3wo?opened-from=feed&component-type=main_feed&spot=standard&location=14",
+    "img": "https://img.yad2.co.il/Pic/202507/28/2_2/o/y2_1pa_010160_20250728202521.jpeg",
+    "address": "יהודה בורלא 1",
+    "price": "₪ 2,700",
+    "details": "2 חדרים • קומה 1 • 45 מ״ר"
+  },
+  {
+    "url": "https://www.yad2.co.il/realestate/item/3r1935xo?opened-from=feed&component-type=main_feed&spot=standard&location=15",
+    "img": "https://img.yad2.co.il/Pic/202508/02/2_2/o/y2_1_04032_20250802213424.jpeg",
+    "address": "זלמן שניאור 16",
+    "price": "₪ 2,900",
+    "details": "3 חדרים • קומה 3 • 62 מ״ר"
   }
 ]
