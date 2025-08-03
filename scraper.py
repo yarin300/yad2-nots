@@ -125,17 +125,39 @@ if new_listings:
 """
         img = listing['img']
 
-        # Send photo with caption
-        requests.post(
-            f"https://api.telegram.org/bot{TG_API}/sendPhoto",
-            data={
-                "chat_id": CHAT_ID,
-                "caption": msg,
-                "parse_mode": "HTML"
-            },
-            files={
-                "photo": requests.get(img).content
-            }
-        )
+        try:
+            if img and img.endswith(".svg"):
+                raise ValueError("Placeholder image detected")
+
+            photo_data = requests.get(img, timeout=5).content
+
+            response = requests.post(
+                f"https://api.telegram.org/bot{TG_API}/sendPhoto",
+                data={
+                    "chat_id": CHAT_ID,
+                    "caption": msg,
+                    "parse_mode": "HTML"
+                },
+                files={
+                    "photo": photo_data
+                }
+            )
+
+            if not response.ok:
+                raise Exception(f"Telegram photo post failed: {response.status_code}")
+
+        except Exception as e:  # fall back text only
+            print(f"Falling back to text for: {listing['address']} ({e})")
+            requests.post(
+                f"https://api.telegram.org/bot{TG_API}/sendMessage",
+                data={
+                    "chat_id": CHAT_ID,
+                    "text": msg,
+                    "parse_mode": "HTML",
+                    "disable_web_page_preview": False
+                }
+            )
+
         sleep(1.5)
+
     print("New listings sent to Telegram, program executed successfully")
