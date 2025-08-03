@@ -61,7 +61,7 @@ for url in urls:
     headers = DEFAULT_HEADERS.copy()
     headers["User-Agent"] = random.choice(UA_POOL)
 
-    response = requests.get(url, headers=DEFAULT_HEADERS)
+    response = requests.get(url, headers=headers)
     response.encoding = 'utf-8'
 
     soup = BeautifulSoup(response.text, 'html.parser')
@@ -93,7 +93,8 @@ for url in urls:
             price = price_el.get_text(strip=True) if price_el else ""
             address = address_el.get_text(strip=True) if address_el else ""
             details = info_lines[1].get_text(strip=True) if len(info_lines) > 1 else ""
-            details.replace('•', '\n')
+            for c in ['\u200e', '\u200f', '\u202a', '\u202b', '\u202c']:
+                details = details.replace(c, '')
 
             listing = {
                 "url": url,
@@ -113,27 +114,28 @@ with open(LISTINGS_FILE, 'w', encoding='utf-8') as f:
     json.dump(scraped_data, f, indent=2, ensure_ascii=False)
 
 print(f"Scraping complete. {len(new_listings)} new listings found.")
-
-for listing in new_listings:
-    msg = f"""
+if new_listings:
+    for listing in new_listings:
+        msg = f"""
 📢 <b>New Listing</b> 📢
 <b>Address:</b> {listing['address']}
 <b>Price:</b> {listing['price']}
 <b>Details:</b> {listing['details']}
 <a href="{listing['url']}">View Listing</a>
 """
-    img = listing['img']
+        img = listing['img']
 
-    # Send photo with caption
-    requests.post(
-        f"https://api.telegram.org/bot{TG_API}/sendPhoto",
-        data={
-            "chat_id": CHAT_ID,
-            "caption": msg,
-            "parse_mode": "HTML"
-        },
-        files={
-            "photo": requests.get(img).content
-        }
-    )
-    sleep(1.5)
+        # Send photo with caption
+        requests.post(
+            f"https://api.telegram.org/bot{TG_API}/sendPhoto",
+            data={
+                "chat_id": CHAT_ID,
+                "caption": msg,
+                "parse_mode": "HTML"
+            },
+            files={
+                "photo": requests.get(img).content
+            }
+        )
+        sleep(1.5)
+    print("New listings sent to Telegram, program executed successfully")
