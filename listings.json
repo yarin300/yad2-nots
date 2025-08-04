@@ -530,5 +530,19 @@
     "address": "בן דור",
     "price": "₪ 2,200",
     "details": "2 חדרים • קומה 1 • 50 מ״ר"
+  },
+  {
+    "url": "https://www.yad2.co.il/realestate/item/lnighiqd",
+    "img": "https://img.yad2.co.il/Pic/202508/04/2_2/o/y2_1_05161_20250804200947.jpeg",
+    "address": "חביבה רייק 22",
+    "price": "₪ 3,000",
+    "details": "2.5 חדרים • קומה 3 • 70 מ״ר"
+  },
+  {
+    "url": "https://www.yad2.co.il/realestate/item/wsj4oxjw",
+    "img": "https://img.yad2.co.il/Pic/202507/09/2_2/o/y2_1pa_010677_20250709085831.jpeg",
+    "address": "האורן 1",
+    "price": "₪ 2,800",
+    "details": "2 חדרים • קומה 1 • 60 מ״ר"
   }
 ]
