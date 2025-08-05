@@ -544,5 +544,19 @@
     "address": "האורן 1",
     "price": "₪ 2,800",
     "details": "2 חדרים • קומה 1 • 60 מ״ר"
+  },
+  {
+    "url": "https://www.yad2.co.il/realestate/item/lx7e6hva",
+    "img": "https://img.yad2.co.il/Pic/202507/30/2_2/o/y2_1_07779_20250730232221.jpeg",
+    "address": "מעלה הגיבורים 50",
+    "price": "₪ 2,500",
+    "details": "2 חדרים • קומה 1 • 50 מ״ר"
+  },
+  {
+    "url": "https://www.yad2.co.il/realestate/item/pfc7l8et",
+    "img": "https://img.yad2.co.il/Pic/202508/04/2_2/o/y2_1pa_010005_20250804213204.jpeg",
+    "address": "צה\"ל 14",
+    "price": "₪ 2,600",
+    "details": "2.5 חדרים • קומה 1 • 55 מ״ר"
   }
 ]
