@@ -621,5 +621,19 @@
     "address": "יסמין 5",
     "price": "₪ 2,900",
     "details": "2 חדרים • קומה 2 • 50 מ״ר"
+  },
+  {
+    "url": "https://www.yad2.co.il/realestate/item/6mni81q7",
+    "img": "https://img.yad2.co.il/Pic/202508/06/2_2/o/y2_1pa_010023_20250806083451.jpeg",
+    "address": "ברנר 3",
+    "price": "₪ 2,500",
+    "details": "2.5 חדרים • קומה 1 • 56 מ״ר"
+  },
+  {
+    "url": "https://www.yad2.co.il/realestate/item/7gvxzdpw",
+    "img": "https://img.yad2.co.il/Pic/202508/06/2_2/o/y2_1_01350_20250806011707.jpeg",
+    "address": "ברנר 1",
+    "price": "₪ 3,000",
+    "details": "3 חדרים • קומה 1 • 64 מ״ר"
   }
 ]
