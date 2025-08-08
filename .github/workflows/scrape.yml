@@ -3,7 +3,7 @@ name: Yad2 Scraper
 on:
   workflow_dispatch:
   schedule:
-    - cron: "35 5-17 * * 0-5"
+    - cron: "35 5-17 * * *"
 
 jobs:
   scrape:
