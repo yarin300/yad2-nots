@@ -726,5 +726,26 @@
     "address": "צה\"ל",
     "price": "₪ 2,500",
     "details": "3 חדרים • קומה 3 • 78 מ״ר"
+  },
+  {
+    "url": "https://www.yad2.co.il/realestate/item/kbcbzl3c",
+    "img": "https://img.yad2.co.il/Pic/202307/22/2_6/o/y2_1_mvco_MoVaX_20230722.jpg",
+    "address": "בן דור",
+    "price": "₪ 2,200",
+    "details": "2 חדרים • קומה 1 • 45 מ״ר"
+  },
+  {
+    "url": "https://www.yad2.co.il/realestate/item/zepq20yf",
+    "img": "https://img.yad2.co.il/Pic/202404/24/2_6/o/y2_3_998567_20240424.jpg",
+    "address": "בן דור",
+    "price": "₪ 2,800",
+    "details": "2.5 חדרים • קומה 2 • 45 מ״ר"
+  },
+  {
+    "url": "https://www.yad2.co.il/realestate/item/8tw246x7",
+    "img": "https://img.yad2.co.il/Pic/202409/01/2_6/o/y2_2_Wp58WMXNyv_20240901.jpg",
+    "address": "המתמיד",
+    "price": "₪ 2,600",
+    "details": "2 חדרים • קומה 1 • 35 מ״ר"
   }
 ]
