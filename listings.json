@@ -705,5 +705,19 @@
     "address": "המצפה 6",
     "price": "₪ 2,950",
     "details": "3 חדרים • קומה 4 • 70 מ״ר"
+  },
+  {
+    "url": "https://www.yad2.co.il/realestate/item/ah1mu7v2",
+    "img": "https://img.yad2.co.il/Pic/202508/08/2_2/o/y2_1pa_010474_20250808085748.jpeg",
+    "address": "חביבה רייק 28",
+    "price": "₪ 2,900",
+    "details": "3.5 חדרים • קומה 3 • 68 מ״ר"
+  },
+  {
+    "url": "https://www.yad2.co.il/realestate/item/6tydbokh",
+    "img": "https://img.yad2.co.il/Pic/202507/28/2_2/o/y2_1pa_010744_20250728101323.jpeg",
+    "address": "המרגנית 7",
+    "price": "₪ 3,000",
+    "details": "4 חדרים • קומה 6 • 100 מ״ר"
   }
 ]
