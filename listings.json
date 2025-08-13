@@ -887,5 +887,19 @@
     "address": "עמוס 23",
     "price": "₪ 2,400",
     "details": "2 חדרים • קומה 2 • 57 מ״ר"
+  },
+  {
+    "url": "https://www.yad2.co.il/realestate/item/1qkpqoki",
+    "img": "https://img.yad2.co.il/Pic/202508/13/2_2/o/y2_1pa_010575_20250813173830.jpeg",
+    "address": "דרך חנקין 39",
+    "price": "₪ 2,500",
+    "details": "2 חדרים • קומה 1 • 70 מ״ר"
+  },
+  {
+    "url": "https://www.yad2.co.il/realestate/item/f8jti0hz",
+    "img": "https://img.yad2.co.il/Pic/202508/13/2_2/o/y2_1pa_010180_20250813182807.jpeg",
+    "address": "דרך הטכניון 36",
+    "price": "₪ 2,300",
+    "details": "1.5 חדרים • קומה קרקע • 38 מ״ר"
   }
 ]
