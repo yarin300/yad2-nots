@@ -12,10 +12,13 @@ load_dotenv()
 TG_API = os.getenv('TG_API')
 CHAT_ID = os.getenv('CHAT_ID')
 
+if not TG_API or not CHAT_ID:
+    raise RuntimeError("TG_API/CHAT_ID missing in environment")
+
 LISTINGS_FILE = 'listings.json'
 CONFIG_FILE = 'config.json'
 
-if os.path.exists(LISTINGS_FILE):
+if os.path.isfile(LISTINGS_FILE):
     try:
         with open(LISTINGS_FILE, 'r', encoding='utf-8') as f:
             scraped_data = json.load(f)
@@ -29,14 +32,22 @@ else:
 
 new_listings = []
 
-with open(CONFIG_FILE, 'r', encoding='utf-8') as f:
-    config = json.load(f)
-urls = [area["url"] for area in config["areas"]]
+if os.path.isfile(CONFIG_FILE):
+    try:
+        with open(CONFIG_FILE, 'r', encoding='utf-8') as f:
+            config = json.load(f)
+    except JSONDecodeError:
+        raise RuntimeError(f"{CONFIG_FILE} is not valid JSON")
+else:
+    raise FileNotFoundError(f"{CONFIG_FILE} is missing")
+
+areas = config.get("areas", [])
+
 
 UA_POOL = [
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
 ]
 
 DEFAULT_HEADERS = {
@@ -55,69 +66,81 @@ DEFAULT_HEADERS = {
     "Cache-Control": "no-cache",
 }
 
-for url in urls:
-    sleep(random.uniform(3, 7))
+for area in areas:
+    url, zone = area["url"], area["zone"]
+    try:
+        print(f"Scraping {zone}", flush=True)
+        sleep(random.uniform(3, 7))
 
-    headers = DEFAULT_HEADERS.copy()
-    headers["User-Agent"] = random.choice(UA_POOL)
+        headers = DEFAULT_HEADERS.copy()
+        headers["User-Agent"] = random.choice(UA_POOL)
 
-    response = requests.get(url, headers=headers)
-    response.encoding = 'utf-8'
+        response = requests.get(url, headers=headers)
+        response.encoding = 'utf-8'
 
-    soup = BeautifulSoup(response.text, 'html.parser')
-    if soup.title and 'shieldsquare' in soup.title.text.lower():
-        print('Bot detected')
-        break
+        soup = BeautifulSoup(response.text, 'html.parser')
+        if soup.title and 'shieldsquare' in soup.title.text.lower():
+            print(f"Bot detected for {zone}, terminating...", flush=True)
+            break
 
-    items = []
-    items.extend(soup.select('li[data-testid="platinum-item"]'))
-    items.extend(soup.select('li[data-testid="item-basic"]'))
-    items.extend(soup.select('li[data-testid="agency-item"]'))
+        items = []
+        items.extend(soup.select('li[data-testid="platinum-item"]'))
+        items.extend(soup.select('li[data-testid="item-basic"]'))
+        items.extend(soup.select('li[data-testid="agency-item"]'))
 
-    for item in items:
-        try:
-            a = item.select_one('a.item-layout_itemLink__CZZ7w')
-            if not a: continue
-            href = a.get("href")
-            url = f"https://www.yad2.co.il{href}" if href.startswith("/realestate") else href
-            url = url[:url.rindex("?")]
-            if url in scraped_urls: continue
+        for item in items:
+            try:
+                a = item.select_one('a.item-layout_itemLink__CZZ7w')
+                if not a:
+                    continue
 
-            img = a.select_one('img[data-testid="image"]')
-            img_url = (img.get("src") or img.get("data-src") or img.get("data-original") or "") if img else ""
+                href = a.get("href")
+                url = f"https://www.yad2.co.il{href}" if href.startswith("/realestate") else href
+                url = url[:url.rindex("?")]
+                if url in scraped_urls:
+                    continue
 
-            price_el = a.select_one(".feed-item-price_price__ygoeF")
-            address_el = a.select_one("h2 span.item-data-content_heading__tphH4")
-            info_lines = a.select("h2 span.item-data-content_itemInfoLine__AeoPP")
+                img = a.select_one('img[data-testid="image"]')
+                img_url = (img.get("src") or img.get("data-src") or img.get("data-original") or "") if img else ""
 
-            price = price_el.get_text(strip=True) if price_el else ""
-            address = address_el.get_text(strip=True) if address_el else ""
-            details = info_lines[1].get_text(strip=True) if len(info_lines) > 1 else ""
-            for c in ['\u200e', '\u200f', '\u202a', '\u202b', '\u202c']:
-                details = details.replace(c, '')
+                price_el = a.select_one(".feed-item-price_price__ygoeF")
+                address_el = a.select_one("h2 span.item-data-content_heading__tphH4")
+                info_lines = a.select("h2 span.item-data-content_itemInfoLine__AeoPP")
 
-            listing = {
-                "url": url,
-                "img": img_url,
-                "address": address,
-                "price": price,
-                "details": details
-            }
+                price = price_el.get_text(strip=True) if price_el else ""
+                address = address_el.get_text(strip=True) if address_el else ""
+                details = info_lines[1].get_text(strip=True) if len(info_lines) > 1 else ""
+                for c in ['\u200e', '\u200f', '\u202a', '\u202b', '\u202c']:
+                    details = details.replace(c, '')
 
-            new_listings.append(listing)
-            scraped_data.append(listing)
+                listing = {
+                    "zone": zone,
+                    "url": url,
+                    "img": img_url,
+                    "address": address,
+                    "price": price,
+                    "details": details
+                }
 
-        except Exception as e:
-            print(f"Error extracting listing: {e}")
+                new_listings.append(listing)
+                scraped_data.append(listing)
+
+            except Exception as e:
+                print(f"Error extracting listing: {e}", flush=True)
+
+    except Exception as e:
+        print(f"Error scraping {zone}: {e}", flush=True)
+
 
 with open(LISTINGS_FILE, 'w', encoding='utf-8') as f:
     json.dump(scraped_data, f, indent=2, ensure_ascii=False)
 
-print(f"Scraping complete. {len(new_listings)} new listings found.")
+print(f"Scraping complete. {len(new_listings)} new listings found.", flush=True)
+
 if new_listings:
     for listing in new_listings:
         msg = f"""
-📢 <b>New Listing</b> 📢
+📢 <b>New Listing in {listing['zone']}</b> 📢
 <b>Address:</b> {listing['address']}
 <b>Price:</b> {listing['price']}
 <b>Details:</b> {listing['details']}
@@ -147,7 +170,7 @@ if new_listings:
                 raise Exception(f"Telegram photo post failed: {response.status_code}")
 
         except Exception as e:  # fall back text only
-            print(f"Falling back to text for: {listing['address']} ({e})")
+            print(f"Falling back to text for: {listing['address']} ({e})", flush=True)
             requests.post(
                 f"https://api.telegram.org/bot{TG_API}/sendMessage",
                 data={
@@ -160,4 +183,4 @@ if new_listings:
 
         sleep(1.5)
 
-    print("New listings sent to Telegram, program executed successfully")
+    print("New listings sent to Telegram, program terminated.", flush=True)
