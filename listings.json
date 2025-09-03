@@ -2006,5 +2006,29 @@
     "address": "שדרות משה שרת 79",
     "price": "₪ 2,100",
     "details": "2 חדרים • קומה 4 • 40 מ״ר"
+  },
+  {
+    "zone": "Kiryat Motskin",
+    "url": "https://www.yad2.co.il/realestate/item/pyveah43",
+    "img": "https://img.yad2.co.il/Pic/202506/30/2_6/o/y2_1pa_010510_20250630140359.jpeg",
+    "address": "חנה סנש 15",
+    "price": "₪ 2,100",
+    "details": "2 חדרים • קומה קרקע • 40 מ״ר"
+  },
+  {
+    "zone": "Kiryat Motskin",
+    "url": "https://www.yad2.co.il/realestate/item/af2z4f2i",
+    "img": "https://img.yad2.co.il/Pic/202507/29/2_6/o/y2_1pa_010160_20250729120422.jpeg",
+    "address": "דרך עכו חיפה 189",
+    "price": "₪ 1,500",
+    "details": "2 חדרים • קומה 4 • 40 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/rljulpsf",
+    "img": "https://img.yad2.co.il/Pic/202508/22/2_6/o/y2_1pa_010933_20250822091025.jpeg",
+    "address": "משה שפירא",
+    "price": "₪ 1,850",
+    "details": "1 חדרים • קומה 2 • 30 מ״ר"
   }
 ]
