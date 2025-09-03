@@ -1966,5 +1966,45 @@
     "address": "שפרינצק 21",
     "price": "₪ 2,700",
     "details": "3 חדרים • קומה 1 • 75 מ״ר"
+  },
+  {
+    "zone": "Kiryat Motskin",
+    "url": "https://www.yad2.co.il/realestate/item/8c446iov",
+    "img": "https://img.yad2.co.il/Pic/202509/03/2_6/o/y2_1pa_010558_20250903105820.jpeg",
+    "address": "דרך עכו חיפה 207",
+    "price": "₪ 2,500",
+    "details": "2 חדרים • קומה 4 • 45 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/zhal3f9y",
+    "img": "https://img.yad2.co.il/Pic/202505/27/2_6/o/y2_1pa_010007_20250527174619.jpeg",
+    "address": "גיורא יוספטל 40",
+    "price": "₪ 2,000",
+    "details": "3 חדרים • קומה 4 • 58 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/mms3988n",
+    "img": "https://img.yad2.co.il/Pic/202508/10/2_6/o/y2_1_FcBnv8AiE7_20250810.jpg",
+    "address": "אשר 9",
+    "price": "₪ 2,200",
+    "details": "3 חדרים • קומה 3 • 65 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/ejsm00ef",
+    "img": "https://img.yad2.co.il/Pic/202509/03/2_6/o/y2_1pa_010914_20250903105646.jpeg",
+    "address": "המלך דוד 10",
+    "price": "₪ 1,400",
+    "details": "1 חדרים • קומה 1 • 40 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/m2si2684",
+    "img": "https://img.yad2.co.il/Pic/202508/30/2_6/o/y2_1pa_010043_20250830205601.jpeg",
+    "address": "שדרות משה שרת 79",
+    "price": "₪ 2,100",
+    "details": "2 חדרים • קומה 4 • 40 מ״ר"
   }
 ]
