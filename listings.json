@@ -1942,5 +1942,29 @@
     "address": "שדרות ירושלים 76",
     "price": "₪ 2,600",
     "details": "2 חדרים • קומה 3 • 45 מ״ר"
+  },
+  {
+    "zone": "Kiryat Motskin",
+    "url": "https://www.yad2.co.il/realestate/item/rmxugqsj",
+    "img": "https://img.yad2.co.il/Pic/202508/31/2_6/o/y2_1pa_010741_20250831001151.jpeg",
+    "address": "דירה",
+    "price": "₪ 2,600",
+    "details": "2 חדרים • קומה קרקע • 40 מ״ר"
+  },
+  {
+    "zone": "Kiryat Motskin",
+    "url": "https://www.yad2.co.il/realestate/item/6uld7ku5",
+    "img": "https://img.yad2.co.il/Pic/202509/03/2_2/o/y2_1pa_010653_20250903133628.jpeg",
+    "address": "חנה סנש 19",
+    "price": "₪ 2,200",
+    "details": "2 חדרים • קומה קרקע • 40 מ״ר"
+  },
+  {
+    "zone": "Kiryat Motskin",
+    "url": "https://www.yad2.co.il/realestate/item/0775inu4",
+    "img": "https://img.yad2.co.il/Pic/202509/03/2_6/o/y2_1pa_010828_20250903140849.jpeg",
+    "address": "שפרינצק 21",
+    "price": "₪ 2,700",
+    "details": "3 חדרים • קומה 1 • 75 מ״ר"
   }
 ]
