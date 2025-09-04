@@ -2246,5 +2246,21 @@
     "address": "יצחק בן צבי 16",
     "price": "₪ 2,300",
     "details": "2 חדרים • קומה 4 • 45 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/spq7o3v5",
+    "img": "https://img.yad2.co.il/Pic/202507/31/2_6/o/y2_1_oUrNlOGLfA_20250731.jpeg",
+    "address": "משה שפירא 6",
+    "price": "₪ 2,000",
+    "details": "3 חדרים • קומה 2 • 70 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/49436xj0",
+    "img": "https://img.yad2.co.il/Pic/202507/29/2_6/o/y2_1pa_010737_20250729124836.jpeg",
+    "address": "שדרות ההסתדרות 12",
+    "price": "₪ 2,000",
+    "details": "2 חדרים • קומה 4 • 45 מ״ר"
   }
 ]
