@@ -2134,5 +2134,21 @@
     "address": "גיורא יוספטל 32",
     "price": "₪ 2,300",
     "details": "3 חדרים • קומה 4 • 50 מ״ר"
+  },
+  {
+    "zone": "Kiryat Motskin",
+    "url": "https://www.yad2.co.il/realestate/item/ll2e3tr2",
+    "img": "https://img.yad2.co.il/Pic/202508/19/2_6/o/y2_1pa_010102_20250819120331.jpeg",
+    "address": "דרך עכו חיפה 175",
+    "price": "₪ 2,300",
+    "details": "2 חדרים • קומה 4 • 45 מ״ר"
+  },
+  {
+    "zone": "Kiryat Motskin",
+    "url": "https://www.yad2.co.il/realestate/item/6vdtvnlj",
+    "img": "https://img.yad2.co.il/Pic/202508/19/2_6/o/y2_1pa_010943_20250819132848.jpeg",
+    "address": "דרך עכו חיפה 209",
+    "price": "₪ 2,500",
+    "details": "2 חדרים • קומה 4 • 45 מ״ר"
   }
 ]
