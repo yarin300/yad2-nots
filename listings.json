@@ -2262,5 +2262,45 @@
     "address": "שדרות ההסתדרות 12",
     "price": "₪ 2,000",
     "details": "2 חדרים • קומה 4 • 45 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/qi39mkwd",
+    "img": "https://img.yad2.co.il/Pic/202508/04/2_6/o/y2_1pa_010855_20250804104724.jpeg",
+    "address": "שדרות ההסתדרות 12",
+    "price": "₪ 2,100",
+    "details": "2 חדרים • קומה 4"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/rd3n1hz3",
+    "img": "https://img.yad2.co.il/Pic/202507/06/2_2/o/y2_1pa_010270_20250706210743.jpeg",
+    "address": "שיכון צבא קבע 1",
+    "price": "₪ 2,700",
+    "details": "3.5 חדרים • קומה 3 • 80 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/wf34hc2i",
+    "img": "https://img.yad2.co.il/Pic/202507/20/2_6/o/y2_1_qEGe8tjRSs_20250720.jpg",
+    "address": "מוהליבר",
+    "price": "₪ 2,100",
+    "details": "2 חדרים • קומה 1 • 45 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/wpzk3my7",
+    "img": "https://img.yad2.co.il/Pic/202508/29/2_6/o/y2_6_6uCuG1DKgS_20250829.jpg",
+    "address": "גיורא יוספטל 38",
+    "price": "₪ 1,800",
+    "details": "3 חדרים • קומה 4 • 65 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/4iebf5qq",
+    "img": "https://img.yad2.co.il/Pic/202411/14/2_6/o/y2_1_994535_20241114.jpg",
+    "address": "גיורא יוספטל 8",
+    "price": "₪ 2,500",
+    "details": "3 חדרים • קומה 4 • 40 מ״ר"
   }
 ]
