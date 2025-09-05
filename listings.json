@@ -2326,5 +2326,29 @@
     "address": "דירה",
     "price": "₪ 2,300",
     "details": "3 חדרים • קומה 3 • 65 מ״ר"
+  },
+  {
+    "zone": "Kiryat Motskin",
+    "url": "https://www.yad2.co.il/realestate/item/mqh0wast",
+    "img": "https://img.yad2.co.il/Pic/202509/05/2_2/o/y2_1pa_010503_20250905102859.jpeg",
+    "address": "הילדים 18",
+    "price": "₪ 2,200",
+    "details": "2 חדרים • קומה 1 • 60 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/6slefubj",
+    "img": "https://assets.yad2.co.il/y2_frontend/global/images/small_image_placeholder.svg",
+    "address": "שדרות משה שרת 57",
+    "price": "₪ 1,800",
+    "details": "1.5 חדרים • קומה 4 • 35 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/fyqm4i1a",
+    "img": "https://img.yad2.co.il/Pic/202509/04/2_6/o/y2_1pa_010931_20250904131814.jpeg",
+    "address": "שדרות ירושלים 96",
+    "price": "₪ 2,300",
+    "details": "2 חדרים • קומה 3 • 55 מ״ר"
   }
 ]
