@@ -2438,5 +2438,37 @@
     "address": "שדרות גושן 84",
     "price": "₪ 2,000",
     "details": "1.5 חדרים • קומה קרקע • 20 מ״ר"
+  },
+  {
+    "zone": "Kiryat Motskin",
+    "url": "https://www.yad2.co.il/realestate/item/w5delwsg",
+    "img": "https://img.yad2.co.il/Pic/202508/31/2_6/o/y2_1pa_010350_20250831120211.jpeg",
+    "address": "דרך עכו חיפה 209",
+    "price": "₪ 2,500",
+    "details": "2 חדרים • קומה 4 • 45 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/5imu0idj",
+    "img": "https://img.yad2.co.il/Pic/202508/10/2_6/o/y2_1_Rbj_HTxYgK_20250810.jpeg",
+    "address": "סטרומה 14",
+    "price": "₪ 1,900",
+    "details": "2.5 חדרים • קומה 1 • 50 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/hv1h7q1o",
+    "img": "https://img.yad2.co.il/Pic/202507/29/2_6/o/y2_1pa_010753_20250729132650.jpeg",
+    "address": "יהודה הלוי",
+    "price": "₪ 1,800",
+    "details": "1.5 חדרים • קומה קרקע • 30 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/kyl5jbx7",
+    "img": "https://img.yad2.co.il/Pic/202506/12/2_6/o/y2_1pa_010340_20250612154914.jpeg",
+    "address": "הקוממיות 17",
+    "price": "₪ 2,500",
+    "details": "2 חדרים • קומה 1 • 50 מ״ר"
   }
 ]
