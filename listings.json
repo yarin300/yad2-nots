@@ -2526,5 +2526,21 @@
     "address": "הפלמ\"ח",
     "price": "₪ 2,150",
     "details": "1.5 חדרים • קומה 3 • 35 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/07tjk5ob",
+    "img": "https://img.yad2.co.il/Pic/202509/04/2_2/o/y2_1pa_010691_20250904101541.jpeg",
+    "address": "שדרות הנרייטה סולד 13",
+    "price": "₪ 2,700",
+    "details": "3 חדרים • קומה 2 • 53 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/3x8e2pgx",
+    "img": "https://img.yad2.co.il/Pic/202507/21/2_6/o/y2_1pa_010877_20250721172501.jpeg",
+    "address": "אלי כהן",
+    "price": "₪ 2,700",
+    "details": "3 חדרים • קומה 2 • 80 מ״ר"
   }
 ]
