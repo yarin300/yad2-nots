@@ -2574,5 +2574,21 @@
     "address": "שדרות ההסתדרות",
     "price": "₪ 2,400",
     "details": "2 חדרים • קומה 4 • 45 מ״ר"
+  },
+  {
+    "zone": "Bialik - Vatika",
+    "url": "https://www.yad2.co.il/realestate/item/2gdmywj6",
+    "img": "https://img.yad2.co.il/Pic/202509/07/2_2/o/y2_1pa_010414_20250907204022.jpeg",
+    "address": "דרך עכו חיפה 94",
+    "price": "₪ 2,700",
+    "details": "1 חדרים • קומה 3 • 40 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/p2nrbove",
+    "img": "https://img.yad2.co.il/Pic/202509/01/2_2/o/y2_1pa_010665_20250901123259.jpeg",
+    "address": "אלי כהן 49",
+    "price": "₪ 1,950",
+    "details": "2 חדרים • קומה 4 • 40 מ״ר"
   }
 ]
