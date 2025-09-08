@@ -2654,5 +2654,21 @@
     "address": "דרך עכו חיפה 181",
     "price": "₪ 2,600",
     "details": "2 חדרים • קומה 4 • 45 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/5f0qv68n",
+    "img": "https://img.yad2.co.il/Pic/202509/04/2_2/o/y2_1pa_010081_20250904171034.jpeg",
+    "address": "זלמן שז\"ר 9",
+    "price": "לא צוין מחיר",
+    "details": "4 חדרים • קומה 2 • 90 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/zoqlfyvk",
+    "img": "https://img.yad2.co.il/Pic/202509/08/2_2/o/y2_1pa_010114_20250908184858.jpeg",
+    "address": "פינסקר 14",
+    "price": "₪ 100",
+    "details": "2 חדרים • קומה קרקע • 60 מ״ר"
   }
 ]
