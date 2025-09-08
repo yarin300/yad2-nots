@@ -2614,5 +2614,21 @@
     "address": "השקדים 4",
     "price": "₪ 1,750",
     "details": "1 חדרים • קומה 2 • 40 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/da73qc9p",
+    "img": "https://img.yad2.co.il/Pic/202508/20/2_6/o/y2_1pa_010302_20250820195358.jpeg",
+    "address": "אהבת ציון 10",
+    "price": "₪ 2,700",
+    "details": "4 חדרים • קומה 1 • 110 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/e4sqchct",
+    "img": "https://img.yad2.co.il/Pic/202509/08/2_6/o/y2_1pa_010860_20250908124454.jpeg",
+    "address": "מוהליבר",
+    "price": "₪ 2,200",
+    "details": "2 חדרים • קומה 1 • 45 מ״ר"
   }
 ]
