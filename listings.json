@@ -2726,5 +2726,21 @@
     "address": "משה שפירא",
     "price": "₪ 1,900",
     "details": "3.5 חדרים • קומה 2 • 62 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/6kix7ecc",
+    "img": "https://img.yad2.co.il/Pic/202509/09/2_6/o/y2_1pa_010964_20250909113535.jpeg",
+    "address": "שדרות ירושלים 5",
+    "price": "₪ 2,200",
+    "details": "2 חדרים • קומה 2 • 40 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/ape89629",
+    "img": "https://img.yad2.co.il/Pic/202509/09/2_6/o/y2_1pa_010368_20250909113005.jpeg",
+    "address": "שבטי ישראל",
+    "price": "₪ 1,800",
+    "details": "1 חדרים • קומה 1 • 35 מ״ר"
   }
 ]
