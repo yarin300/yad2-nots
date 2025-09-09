@@ -2766,5 +2766,21 @@
     "address": "השופטים 13",
     "price": "₪ 1,500",
     "details": "1.5 חדרים • קומה 1 • 35 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/cdfz0rep",
+    "img": "https://img.yad2.co.il/Pic/202508/28/2_6/o/y2_1pa_010367_20250828183631.jpeg",
+    "address": "גיורא יוספטל 36",
+    "price": "₪ 2,500",
+    "details": "3 חדרים • קומה 3 • 60 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/wxbnlepa",
+    "img": "https://img.yad2.co.il/Pic/202509/08/2_6/o/y2_1pa_010045_20250908135838.jpeg",
+    "address": "שדרות ההסתדרות 12",
+    "price": "₪ 2,200",
+    "details": "2 חדרים • קומה 4 • 45 מ״ר"
   }
 ]
