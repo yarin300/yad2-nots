@@ -2886,5 +2886,21 @@
     "address": "הראשונים 2",
     "price": "₪ 2,000",
     "details": "3 חדרים • קומה 3 • 65 מ״ר"
+  },
+  {
+    "zone": "Kiryat Motskin",
+    "url": "https://www.yad2.co.il/realestate/item/ltxiyego",
+    "img": "https://img.yad2.co.il/Pic/202509/11/2_2/o/y2_1pa_010655_20250911165008.jpeg",
+    "address": "קדיש לוז 28",
+    "price": "₪ 2,700",
+    "details": "3 חדרים • קומה 4 • 75 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/6hkukyt7",
+    "img": "https://img.yad2.co.il/Pic/202509/11/2_6/o/y2_1pa_010515_20250911104325.jpeg",
+    "address": "קרית ים ב'",
+    "price": "₪ 2,200",
+    "details": "1 חדרים • קומה 4 • 38 מ״ר"
   }
 ]
