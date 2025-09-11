@@ -2918,5 +2918,13 @@
     "address": "יהודה הלוי 5",
     "price": "₪ 1,500",
     "details": "1 חדרים • קומה 2 • 20 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/bgr2cxfx",
+    "img": "https://assets.yad2.co.il/y2_frontend/global/images/small_image_placeholder.svg",
+    "address": "גיורא יוספטל 11",
+    "price": "₪ 2,100",
+    "details": "2 חדרים • קומה 1 • 40 מ״ר"
   }
 ]
