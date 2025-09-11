@@ -2870,5 +2870,21 @@
     "address": "אלי כהן 39",
     "price": "₪ 2,400",
     "details": "2 חדרים • קומה 4 • 45 מ״ר"
+  },
+  {
+    "zone": "Kiryat Motskin",
+    "url": "https://www.yad2.co.il/realestate/item/1knwu2rr",
+    "img": "https://img.yad2.co.il/Pic/202509/11/2_6/o/y2_1pa_010481_20250911112656.jpeg",
+    "address": "נתיב העלייה 8",
+    "price": "₪ 2,100",
+    "details": "2 חדרים • קומה 1 • 40 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/q3wwuc64",
+    "img": "https://img.yad2.co.il/Pic/202509/11/2_6/o/y2_1pa_010310_20250911112920.jpeg",
+    "address": "הראשונים 2",
+    "price": "₪ 2,000",
+    "details": "3 חדרים • קומה 3 • 65 מ״ר"
   }
 ]
