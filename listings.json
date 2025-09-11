@@ -2854,5 +2854,21 @@
     "address": "החשמונאים 14",
     "price": "₪ 2,000",
     "details": "2.5 חדרים • קומה קרקע • 50 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/1xwnxkcn",
+    "img": "https://img.yad2.co.il/Pic/202509/09/2_2/o/y2_1pa_010954_20250909143227.jpeg",
+    "address": "יהודה 2",
+    "price": "₪ 2,600",
+    "details": "3 חדרים • קומה 1 • 50 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/6vjdm20e",
+    "img": "https://img.yad2.co.il/Pic/202509/11/2_6/o/y2_1pa_010315_20250911104110.jpeg",
+    "address": "אלי כהן 39",
+    "price": "₪ 2,400",
+    "details": "2 חדרים • קומה 4 • 45 מ״ר"
   }
 ]
