@@ -2902,5 +2902,21 @@
     "address": "קרית ים ב'",
     "price": "₪ 2,200",
     "details": "1 חדרים • קומה 4 • 38 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/8h3v8ex6",
+    "img": "https://img.yad2.co.il/Pic/202509/11/2_6/o/y2_1_Js0_996668_20250911.jpg",
+    "address": "שדרות משה שרת 35",
+    "price": "₪ 350",
+    "details": "3 חדרים • קומה 1 • 40 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/l6dj2ct9",
+    "img": "https://img.yad2.co.il/Pic/202506/04/2_2/o/y2_1_08245_20250604121733.jpeg",
+    "address": "יהודה הלוי 5",
+    "price": "₪ 1,500",
+    "details": "1 חדרים • קומה 2 • 20 מ״ר"
   }
 ]
