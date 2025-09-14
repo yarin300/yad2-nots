@@ -2990,5 +2990,21 @@
     "address": "חנה סנש 10",
     "price": "₪ 2,000",
     "details": "2 חדרים • קומה 1 • 40 מ״ר"
+  },
+  {
+    "zone": "Kiryat Motskin",
+    "url": "https://www.yad2.co.il/realestate/item/nt9gnge9",
+    "img": "https://img.yad2.co.il/Pic/202509/14/2_6/o/y2_1pa_010429_20250914121926.jpeg",
+    "address": "יגאל אלון",
+    "price": "₪ 2,000",
+    "details": "2 חדרים • קומה 16 • 35 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/c35stxjk",
+    "img": "https://img.yad2.co.il/Pic/202509/13/2_2/o/y2_3_09041_20250913181407.jpeg",
+    "address": "אגוזים 3",
+    "price": "₪ 100",
+    "details": "1 חדרים • קומה קרקע • 10 מ״ר"
   }
 ]
