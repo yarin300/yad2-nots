@@ -3150,5 +3150,21 @@
     "address": "יהונתן נתניהו 2",
     "price": "₪ 1,450",
     "details": "1.5 חדרים • קומה 4 • 30 מ״ר"
+  },
+  {
+    "zone": "Kiryat Motskin",
+    "url": "https://www.yad2.co.il/realestate/item/jsry7523",
+    "img": "https://img.yad2.co.il/Pic/202509/18/2_2/o/y2_1pa_010690_20250918093726.jpeg",
+    "address": "הילדים 3",
+    "price": "₪ 2,400",
+    "details": "2.5 חדרים • קומה 1 • 50 מ״ר"
+  },
+  {
+    "zone": "Kiryat Motskin",
+    "url": "https://www.yad2.co.il/realestate/item/5ky7eszy",
+    "img": "https://assets.yad2.co.il/y2_frontend/global/images/small_image_placeholder.svg",
+    "address": "דקר 84",
+    "price": "₪ 2,009",
+    "details": "1.5 חדרים • קומה 1 • 40 מ״ר"
   }
 ]
