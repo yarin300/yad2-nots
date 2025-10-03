@@ -3758,5 +3758,21 @@
     "address": "שדרות משה שרת 75",
     "price": "₪ 1,500",
     "details": "3 חדרים • קומה 4 • 85 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/b0v60d3r",
+    "img": "https://img.yad2.co.il/Pic/202510/03/2_2/o/y2_1pa_010762_20251003170656.jpeg",
+    "address": "זלמן ארן 1",
+    "price": "₪ 2,700",
+    "details": "3 חדרים • קומה 2 • 84 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/z365yiwu",
+    "img": "https://img.yad2.co.il/Pic/202503/09/2_6/o/y2_1_995691_20250309.jpg",
+    "address": "הראשונים 5",
+    "price": "₪ 2,700",
+    "details": "3 חדרים • קומה 4 • 70 מ״ר"
   }
 ]
