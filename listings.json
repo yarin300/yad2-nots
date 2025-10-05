@@ -3806,5 +3806,21 @@
     "address": "יהודה 2",
     "price": "₪ 2,300",
     "details": "3 חדרים • קומה 1 • 50 מ״ר"
+  },
+  {
+    "zone": "Kiryat Motskin",
+    "url": "https://www.yad2.co.il/realestate/item/qgjx9j85",
+    "img": "https://img.yad2.co.il/Pic/202508/30/2_6/o/y2_1_999079_20250830.jpeg",
+    "address": "גן העצמאות",
+    "price": "לא צוין מחיר",
+    "details": "3.5 חדרים • קומה 1 • 75 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/pq3e15b7",
+    "img": "https://img.yad2.co.il/Pic/202510/05/2_2/o/y2_1pa_010543_20251005130205.jpeg",
+    "address": "שדרות ירושלים 98",
+    "price": "₪ 2,500",
+    "details": "2 חדרים • קומה 7 • 42 מ״ר"
   }
 ]
