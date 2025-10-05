@@ -3838,5 +3838,21 @@
     "address": "החשמונאים 13",
     "price": "₪ 2,500",
     "details": "1.5 חדרים • קומה 1 • 35 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/955uh19j",
+    "img": "https://img.yad2.co.il/Pic/202510/05/2_2/o/y2_1_02321_20251005193614.jpeg",
+    "address": "גיורא יוספטל 13",
+    "price": "₪ 2,000",
+    "details": "3 חדרים • קומה 3 • 56 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/zn5yqfh4",
+    "img": "https://img.yad2.co.il/Pic/202509/30/2_6/o/y2_1pa_010073_20250930200107.jpeg",
+    "address": "שדרות משה שרת 63",
+    "price": "₪ 2,500",
+    "details": "2 חדרים • קומה 4 • 40 מ״ר"
   }
 ]
