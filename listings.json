@@ -3870,5 +3870,21 @@
     "address": "החשמונאים 12",
     "price": "₪ 2,000",
     "details": "1.5 חדרים • קומה קרקע • 35 מ״ר"
+  },
+  {
+    "zone": "Kiryat Motskin",
+    "url": "https://www.yad2.co.il/realestate/item/k7ubfw1b",
+    "img": "https://img.yad2.co.il/Pic/202510/06/2_2/o/y2_1pa_010479_20251006130122.jpeg",
+    "address": "גן העצמאות 11",
+    "price": "₪ 2,600",
+    "details": "2.5 חדרים • קומה 1 • 45 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/e6qslysk",
+    "img": "https://img.yad2.co.il/Pic/202502/17/2_6/o/y2_1pa_010427_20250217153206.jpeg",
+    "address": "משה שפירא 6",
+    "price": "₪ 1,900",
+    "details": "3 חדרים • קומה 3 • 60 מ״ר"
   }
 ]
