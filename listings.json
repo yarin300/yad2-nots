@@ -3990,5 +3990,37 @@
     "address": "ברזילי 4",
     "price": "₪ 2,400",
     "details": "2 חדרים • קומה 4 • 45 מ״ר"
+  },
+  {
+    "zone": "Kiryat Motskin",
+    "url": "https://www.yad2.co.il/realestate/item/7do52qfn",
+    "img": "https://img.yad2.co.il/Pic/202510/09/2_6/o/y2_1pa_010547_20251009134420.jpeg",
+    "address": "הירדן",
+    "price": "₪ 2,400",
+    "details": "2 חדרים • קומה 1 • 40 מ״ר"
+  },
+  {
+    "zone": "Kiryat Motskin",
+    "url": "https://www.yad2.co.il/realestate/item/49m4kv7i",
+    "img": "https://img.yad2.co.il/Pic/202510/09/2_6/o/y2_1pa_010166_20251009133730.jpeg",
+    "address": "הירדן 11",
+    "price": "₪ 2,400",
+    "details": "2 חדרים • קומה 1 • 40 מ״ר"
+  },
+  {
+    "zone": "Kiryat Motskin",
+    "url": "https://www.yad2.co.il/realestate/item/ms74wvy7",
+    "img": "https://img.yad2.co.il/Pic/202510/09/2_6/o/y2_1pa_010001_20251009133331.jpeg",
+    "address": "הירדן 11",
+    "price": "₪ 2,400",
+    "details": "2 חדרים • קומה 1 • 40 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/4x9np03v",
+    "img": "https://img.yad2.co.il/Pic/202510/09/2_2/o/y2_2_09073_20251009130713.jpeg",
+    "address": "שפרינצק 4",
+    "price": "₪ 1,850",
+    "details": "2 חדרים • קומה 2 • 43 מ״ר"
   }
 ]
