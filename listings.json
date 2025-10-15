@@ -4134,5 +4134,21 @@
     "address": "שדרות ירושלים 68",
     "price": "₪ 2,500",
     "details": "2 חדרים • קומה 2 • 54 מ״ר"
+  },
+  {
+    "zone": "Bialik - Vatika",
+    "url": "https://www.yad2.co.il/realestate/item/rssdyark",
+    "img": "https://img.yad2.co.il/Pic/202510/14/2_2/o/y2_1pa_010695_20251014212808.jpeg",
+    "address": "אשל 7",
+    "price": "₪ 2,700",
+    "details": "2 חדרים • קומה קרקע • 40 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/stq7637f",
+    "img": "https://img.yad2.co.il/Pic/202510/14/2_2/o/y2_1_01421_20251014231429.jpeg",
+    "address": "שדרות משה שרת 71",
+    "price": "₪ 2,700",
+    "details": "3 חדרים • קומה 4 • 70 מ״ר"
   }
 ]
