@@ -4254,5 +4254,21 @@
     "address": "ברזילי 4",
     "price": "₪ 2,400",
     "details": "2 חדרים • קומה 4 • 40 מ״ר"
+  },
+  {
+    "zone": "Kiryat Motskin",
+    "url": "https://www.yad2.co.il/realestate/item/62rmkia2",
+    "img": "https://img.yad2.co.il/Pic/202510/16/2_6/o/y2_1pa_010896_20251016123233.jpeg",
+    "address": "דרך עכו חיפה 193",
+    "price": "₪ 2,350",
+    "details": "2 חדרים • קומה 3"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/52rylp0u",
+    "img": "https://img.yad2.co.il/Pic/202510/16/2_6/o/y2_1pa_010280_20251016124341.jpeg",
+    "address": "שדרות צה\"ל 11",
+    "price": "₪ 2,400",
+    "details": "3 חדרים • קומה 4"
   }
 ]
