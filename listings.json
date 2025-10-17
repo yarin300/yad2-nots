@@ -4302,5 +4302,37 @@
     "address": "שפרינצק 35",
     "price": "₪ 2,600",
     "details": "2.5 חדרים • קומה 1 • 60 מ״ר"
+  },
+  {
+    "zone": "Bialik - Vatika",
+    "url": "https://www.yad2.co.il/realestate/item/0nj5bffy",
+    "img": "https://img.yad2.co.il/Pic/202510/01/2_2/o/y2_1pa_010796_20251001135756.jpeg",
+    "address": "קרן היסוד 103",
+    "price": "₪ 2,700",
+    "details": "2 חדרים • קומה 1 • 50 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/3hebanws",
+    "img": "https://img.yad2.co.il/Pic/202510/17/2_2/o/y2_1pa_010292_20251017083049.jpeg",
+    "address": "בורוכוב 9",
+    "price": "₪ 1,950",
+    "details": "1 חדרים • קומה 2 • 39 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/7wse654a",
+    "img": "https://img.yad2.co.il/Pic/202510/16/2_6/o/y2_1pa_010519_20251016171559.jpeg",
+    "address": "גיורא יוספטל 34",
+    "price": "לא צוין מחיר",
+    "details": "3 חדרים • קומה 2 • 70 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/bnrrjg4z",
+    "img": "https://img.yad2.co.il/Pic/202510/16/2_6/o/y2_1pa_010434_20251016152417.jpeg",
+    "address": "שדרות ירושלים 39",
+    "price": "₪ 2,700",
+    "details": "2 חדרים • קומה 4 • 5 מ״ר"
   }
 ]
