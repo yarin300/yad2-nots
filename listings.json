@@ -4414,5 +4414,21 @@
     "address": "יוספטל 10",
     "price": "₪ 2,600",
     "details": "2 חדרים • קומה 4 • 40 מ״ר"
+  },
+  {
+    "zone": "Kiryat Motskin",
+    "url": "https://www.yad2.co.il/realestate/item/zpwnx9ut",
+    "img": "https://img.yad2.co.il/Pic/202510/19/2_2/o/y2_1pa_010127_20251019191328.jpeg",
+    "address": "ז'בוטינסקי 5",
+    "price": "₪ 2,550",
+    "details": "2.5 חדרים • קומה 3 • 50 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/5e4jlvod",
+    "img": "https://img.yad2.co.il/Pic/202510/19/2_2/o/y2_1pa_010748_20251019185802.jpeg",
+    "address": "לכיש 2",
+    "price": "₪ 2,700",
+    "details": "3 חדרים • קומה 4 • 73 מ״ר"
   }
 ]
