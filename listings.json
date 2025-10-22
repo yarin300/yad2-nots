@@ -4582,5 +4582,21 @@
     "address": "אביבים",
     "price": "₪ 700",
     "details": "קומה קרקע • 5 מ״ר"
+  },
+  {
+    "zone": "Kiryat Motskin",
+    "url": "https://www.yad2.co.il/realestate/item/jnlfguq9",
+    "img": "https://img.yad2.co.il/Pic/202510/22/2_6/o/y2_1pa_010597_20251022110738.jpeg",
+    "address": "הירדן 11",
+    "price": "₪ 1,800",
+    "details": "1 חדרים • קומה 2 • 30 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/eqg2mug0",
+    "img": "https://img.yad2.co.il/Pic/202410/02/2_6/o/y2_1pa_994150_20241002111315.jpeg",
+    "address": "גיורא יוספטל",
+    "price": "₪ 2,200",
+    "details": "3 חדרים • קומה קרקע • 55 מ״ר"
   }
 ]
