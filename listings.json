@@ -4670,5 +4670,13 @@
     "address": "אלי כהן 33",
     "price": "₪ 2,400",
     "details": "3 חדרים • קומה 3 • 70 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/0zvxgmh7",
+    "img": "https://assets.yad2.co.il/y2_frontend/global/images/small_image_placeholder.svg",
+    "address": "פינסקר 4",
+    "price": "₪ 1,400",
+    "details": "1.5 חדרים • קומה 1 • 32 מ״ר"
   }
 ]
