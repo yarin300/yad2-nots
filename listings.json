@@ -4654,5 +4654,21 @@
     "address": "שדרות ירושלים 106",
     "price": "₪ 1,000",
     "details": "4 חדרים • קומה 6 • 80 מ״ר"
+  },
+  {
+    "zone": "Kiryat Motskin",
+    "url": "https://www.yad2.co.il/realestate/item/37biib54",
+    "img": "https://img.yad2.co.il/Pic/202510/22/2_2/o/y2_1pa_010869_20251022222756.jpeg",
+    "address": "הרב בר אילן 1",
+    "price": "₪ 2,000",
+    "details": "1.5 חדרים • קומה 2 • 30 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/p9ci3x4f",
+    "img": "https://img.yad2.co.il/Pic/202510/23/2_2/o/y2_1pa_010788_20251023000920.jpeg",
+    "address": "אלי כהן 33",
+    "price": "₪ 2,400",
+    "details": "3 חדרים • קומה 3 • 70 מ״ר"
   }
 ]
