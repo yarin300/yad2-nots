@@ -4782,5 +4782,21 @@
     "address": "דירה",
     "price": "₪ 1,800",
     "details": "3 חדרים • קומה 2 • 45 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/n9dmtgzy",
+    "img": "https://img.yad2.co.il/Pic/202510/27/2_6/o/y2_1pa_010613_20251027110219.jpeg",
+    "address": "שדרות ההסתדרות 13",
+    "price": "₪ 2,450",
+    "details": "2 חדרים • קומה 4 • 45 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/2p72rs9x",
+    "img": "https://img.yad2.co.il/Pic/202510/27/2_6/o/y2_1pa_010098_20251027110522.jpeg",
+    "address": "שדרות ההסתדרות 13",
+    "price": "₪ 2,200",
+    "details": "2 חדרים • קומה 4 • 45 מ״ר"
   }
 ]
