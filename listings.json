@@ -4814,5 +4814,29 @@
     "address": "שביל כלנית 7",
     "price": "₪ 2,100",
     "details": "2.5 חדרים • קומה 3 • 55 מ״ר"
+  },
+  {
+    "zone": "Kiryat Motskin",
+    "url": "https://www.yad2.co.il/realestate/item/wn2oo5kr",
+    "img": "https://assets.yad2.co.il/y2_frontend/global/images/small_image_placeholder.svg",
+    "address": "ורד 13",
+    "price": "₪ 2,500",
+    "details": "2.5 חדרים • קומה 3 • 56 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/ek4mfdoo",
+    "img": "https://assets.yad2.co.il/y2_frontend/global/images/small_image_placeholder.svg",
+    "address": "הקוממיות 8",
+    "price": "₪ 2,200",
+    "details": "3 חדרים • קומה 2 • 53 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/m3pgzvac",
+    "img": "https://img.yad2.co.il/Pic/202510/27/2_6/o/y2_1pa_010490_20251027111633.jpeg",
+    "address": "שדרות ירושלים 76",
+    "price": "₪ 2,450",
+    "details": "2 חדרים • קומה 4 • 45 מ״ר"
   }
 ]
