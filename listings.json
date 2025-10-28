@@ -4838,5 +4838,29 @@
     "address": "שדרות ירושלים 76",
     "price": "₪ 2,450",
     "details": "2 חדרים • קומה 4 • 45 מ״ר"
+  },
+  {
+    "zone": "Kiryat Motskin",
+    "url": "https://www.yad2.co.il/realestate/item/srb8hl8l",
+    "img": "https://img.yad2.co.il/Pic/202510/28/2_2/o/y2_1pa_010166_20251028192407.jpeg",
+    "address": "סעדיה גאון 1",
+    "price": "₪ 2,500",
+    "details": "2.5 חדרים • קומה 1 • 56 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/ua53xk6a",
+    "img": "https://img.yad2.co.il/Pic/202510/28/2_2/o/y2_1pa_010777_20251028190231.jpeg",
+    "address": "הרמב\"ם 14",
+    "price": "₪ 2,500",
+    "details": "2.5 חדרים • קומה קרקע • 47 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/t0khq3td",
+    "img": "https://img.yad2.co.il/Pic/202410/02/2_6/o/y2_1pa_999759_20241002111315.jpeg",
+    "address": "גיורא יוספטל",
+    "price": "₪ 2,200",
+    "details": "3 חדרים • קומה קרקע • 55 מ״ר"
   }
 ]
