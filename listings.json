@@ -4806,5 +4806,13 @@
     "address": "שדרות ירושלים 39",
     "price": "₪ 2,600",
     "details": "2 חדרים • קומה 4 • 45 מ״ר"
+  },
+  {
+    "zone": "Kiryat Motskin",
+    "url": "https://www.yad2.co.il/realestate/item/huolcrrk",
+    "img": "https://assets.yad2.co.il/y2_frontend/global/images/small_image_placeholder.svg",
+    "address": "שביל כלנית 7",
+    "price": "₪ 2,100",
+    "details": "2.5 חדרים • קומה 3 • 55 מ״ר"
   }
 ]
