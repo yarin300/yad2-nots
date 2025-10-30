@@ -4886,5 +4886,29 @@
     "address": "יששכר 10",
     "price": "₪ 2,000",
     "details": "2 חדרים • קומה 2 • 33 מ״ר"
+  },
+  {
+    "zone": "Kiryat Motskin",
+    "url": "https://www.yad2.co.il/realestate/item/93hmigwq",
+    "img": "https://assets.yad2.co.il/y2_frontend/global/images/small_image_placeholder.svg",
+    "address": "דרך עכו חיפה 7",
+    "price": "₪ 2,300",
+    "details": "2.5 חדרים • קומה 2 • 60 מ״ר"
+  },
+  {
+    "zone": "Kiryat Motskin",
+    "url": "https://www.yad2.co.il/realestate/item/t0pahfee",
+    "img": "https://img.yad2.co.il/Pic/202510/29/2_2/o/y2_1pa_010657_20251029204428.jpeg",
+    "address": "יששכר 8",
+    "price": "₪ 1,800",
+    "details": "1.5 חדרים • קומה 2 • 30 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/mmj49feq",
+    "img": "https://img.yad2.co.il/Pic/202510/29/2_6/o/y2_1pa_010889_20251029131811.jpeg",
+    "address": "שדרות צה\"ל 19",
+    "price": "₪ 2,500",
+    "details": "3 חדרים • קומה 3 • 45 מ״ר"
   }
 ]
