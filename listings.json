@@ -4910,5 +4910,29 @@
     "address": "שדרות צה\"ל 19",
     "price": "₪ 2,500",
     "details": "3 חדרים • קומה 3 • 45 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/tlld3m74",
+    "img": "https://img.yad2.co.il/Pic/202510/27/2_6/o/y2_1pa_010024_20251027100304.jpeg",
+    "address": "שדרות ירושלים 94",
+    "price": "₪ 2,300",
+    "details": "3 חדרים • קומה 3"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/ptput4fn",
+    "img": "https://img.yad2.co.il/Pic/202510/27/2_6/o/y2_1pa_010364_20251027140328.jpeg",
+    "address": "משה שפירא 6",
+    "price": "₪ 2,000",
+    "details": "3 חדרים • קומה 2 • 57 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/4psvfm6l",
+    "img": "https://img.yad2.co.il/Pic/202510/27/2_6/o/y2_1pa_010638_20251027180143.jpeg",
+    "address": "קרית ים ב'",
+    "price": "₪ 2,100",
+    "details": "3 חדרים • קומה 4 • 60 מ״ר"
   }
 ]
