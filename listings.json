@@ -4958,5 +4958,21 @@
     "address": "גולן 2",
     "price": "₪ 2,100",
     "details": "2 חדרים • קומה 1 • 35 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/pk0b15zj",
+    "img": "https://img.yad2.co.il/Pic/202510/30/2_2/o/y2_1pa_010358_20251030221258.jpeg",
+    "address": "שדרות רוברט סולד 1",
+    "price": "₪ 2,600",
+    "details": "2 חדרים • קומה 4 • 45 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/k0cfeove",
+    "img": "https://img.yad2.co.il/Pic/202510/30/2_2/o/y2_1pa_010457_20251030210810.jpeg",
+    "address": "שדרות הרברט ליהמן 12",
+    "price": "₪ 2,300",
+    "details": "2.5 חדרים • קומה 1 • 57 מ״ר"
   }
 ]
