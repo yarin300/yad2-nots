@@ -5038,5 +5038,13 @@
     "address": "דרך עכו חיפה 110",
     "price": "₪ 2,500",
     "details": "2 חדרים • קומה 3 • 50 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/r6zy662d",
+    "img": "https://assets.yad2.co.il/y2_frontend/global/images/small_image_placeholder.svg",
+    "address": "אלי כהן 5",
+    "price": "₪ 2,200",
+    "details": "3 חדרים • קומה 3 • 65 מ״ר"
   }
 ]
