@@ -5070,5 +5070,21 @@
     "address": "זבולון 1",
     "price": "₪ 2,500",
     "details": "3 חדרים • קומה 2 • 67 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/gkoifh67",
+    "img": "https://assets.yad2.co.il/y2_frontend/global/images/small_image_placeholder.svg",
+    "address": "שדרות ביאליק 4",
+    "price": "₪ 2,500",
+    "details": "3 חדרים • קומה 3 • 65 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/qjo3k9cf",
+    "img": "https://img.yad2.co.il/Pic/202410/02/2_6/o/y2_1pa_991995_20241002111315.jpeg",
+    "address": "גיורא יוספטל",
+    "price": "₪ 2,200",
+    "details": "3 חדרים • קומה קרקע • 55 מ״ר"
   }
 ]
