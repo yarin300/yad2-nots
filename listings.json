@@ -5158,5 +5158,21 @@
     "address": "בורוכוב 10",
     "price": "₪ 2,000",
     "details": "2 חדרים • קומה קרקע • 50 מ״ר"
+  },
+  {
+    "zone": "Kiryat Motskin",
+    "url": "https://www.yad2.co.il/realestate/item/ihd6324l",
+    "img": "https://assets.yad2.co.il/y2_frontend/global/images/small_image_placeholder.svg",
+    "address": "אח\"י אילת 4",
+    "price": "₪ 2,000",
+    "details": "1 חדרים • קומה קרקע • 16 מ״ר"
+  },
+  {
+    "zone": "Kiryat Motskin",
+    "url": "https://www.yad2.co.il/realestate/item/qvljv5v9",
+    "img": "https://img.yad2.co.il/Pic/202511/04/2_6/o/y2_1_NqOeS7zfdT_20251104.jpg",
+    "address": "אירוס",
+    "price": "₪ 1,900",
+    "details": "2 חדרים • קומה קרקע • 35 מ״ר"
   }
 ]
