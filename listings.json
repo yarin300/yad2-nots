@@ -5118,5 +5118,21 @@
     "address": "גולן",
     "price": "₪ 2,600",
     "details": "2 חדרים • קומה 1 • 50 מ״ר"
+  },
+  {
+    "zone": "Kiryat Motskin",
+    "url": "https://www.yad2.co.il/realestate/item/kpmft1im",
+    "img": "https://img.yad2.co.il/Pic/202511/04/2_2/o/y2_1pa_010586_20251104013403.jpeg",
+    "address": "טרומפלדור 1",
+    "price": "₪ 2,700",
+    "details": "2 חדרים • קומה קרקע • 55 מ״ר"
+  },
+  {
+    "zone": "Kiryat Motskin",
+    "url": "https://www.yad2.co.il/realestate/item/yy7p8fcn",
+    "img": "https://img.yad2.co.il/Pic/202511/03/2_2/o/y2_1pa_010202_20251103202855.jpeg",
+    "address": "קדיש לוז 72",
+    "price": "₪ 2,700",
+    "details": "2 חדרים • קומה 4 • 38 מ״ר"
   }
 ]
