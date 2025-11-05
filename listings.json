@@ -5198,5 +5198,21 @@
     "address": "גיורא יוספטל 20",
     "price": "₪ 2,000",
     "details": "3 חדרים • קומה 2 • 70 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/a2wyoet0",
+    "img": "https://img.yad2.co.il/Pic/202511/05/2_2/o/y2_1pa_010482_20251105101013.jpeg",
+    "address": "אלי כהן 49",
+    "price": "₪ 2,400",
+    "details": "2 חדרים • קומה 4 • 45 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/ejz9dunk",
+    "img": "https://img.yad2.co.il/Pic/202510/30/2_6/o/y2_1pa_010070_20251030195748.jpeg",
+    "address": "גולן 2",
+    "price": "₪ 2,100",
+    "details": "2 חדרים • קומה 1 • 35 מ״ר"
   }
 ]
