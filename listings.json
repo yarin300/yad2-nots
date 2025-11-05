@@ -5238,5 +5238,29 @@
     "address": "חניתה",
     "price": "₪ 2,600",
     "details": "1 חדרים • קומה קרקע • 60 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/v51rr086",
+    "img": "https://img.yad2.co.il/Pic/202511/05/2_2/o/y2_1pa_010630_20251105143407.jpeg",
+    "address": "גיורא יוספטל 20",
+    "price": "₪ 2,200",
+    "details": "3 חדרים • קומה 2 • 72 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/nz6etszy",
+    "img": "https://img.yad2.co.il/Pic/202511/05/2_2/o/y2_1pa_010071_20251105141519.jpeg",
+    "address": "גיורא יוספטל 20",
+    "price": "₪ 2,200",
+    "details": "3 חדרים • קומה 1 • 66 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/a2ww73eb",
+    "img": "https://img.yad2.co.il/Pic/202411/01/2_6/o/y2_2_XhkpBGu_997996_20241101.jpg",
+    "address": "גיורא יוספטל",
+    "price": "₪ 1,900",
+    "details": "3 חדרים • קומה קרקע • 55 מ״ר"
   }
 ]
