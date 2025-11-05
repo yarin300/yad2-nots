@@ -5182,5 +5182,21 @@
     "address": "ז'בוטינסקי 3",
     "price": "₪ 2,700",
     "details": "3 חדרים • קומה 1 • 70 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/dmf01c5v",
+    "img": "https://img.yad2.co.il/Pic/202510/30/2_6/o/y2_1pa_010763_20251030195955.jpeg",
+    "address": "גולן 2",
+    "price": "₪ 2,100",
+    "details": "2 חדרים • קומה 1 • 352 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/0gh3wry2",
+    "img": "https://img.yad2.co.il/Pic/202511/02/2_6/o/y2_1pa_010735_20251102181308.jpeg",
+    "address": "גיורא יוספטל 20",
+    "price": "₪ 2,000",
+    "details": "3 חדרים • קומה 2 • 70 מ״ר"
   }
 ]
