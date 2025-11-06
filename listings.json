@@ -5302,5 +5302,37 @@
     "address": "הירדן 9",
     "price": "₪ 2,500",
     "details": "1.5 חדרים • קומה קרקע • 50 מ״ר"
+  },
+  {
+    "zone": "Kiryat Motskin",
+    "url": "https://www.yad2.co.il/realestate/item/8qfg4sjr",
+    "img": "https://img.yad2.co.il/Pic/202511/06/2_6/o/y2_1pa_010259_20251106095401.jpeg",
+    "address": "הירדן 13",
+    "price": "₪ 2,200",
+    "details": "1 חדרים • קומה 1 • 30 מ״ר"
+  },
+  {
+    "zone": "Kiryat Motskin",
+    "url": "https://www.yad2.co.il/realestate/item/9x0pvdqm",
+    "img": "https://img.yad2.co.il/Pic/202511/06/2_6/o/y2_1pa_010203_20251106121210.jpeg",
+    "address": "הירדן 5",
+    "price": "₪ 1,700",
+    "details": "1.5 חדרים • קומה 1 • 30 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/ptpd911f",
+    "img": "https://img.yad2.co.il/Pic/202511/06/2_6/o/y2_1pa_010471_20251106085556.jpeg",
+    "address": "אלי כהן 5",
+    "price": "₪ 2,700",
+    "details": "3 חדרים • קומה 4 • 70 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/cfdvqb0t",
+    "img": "https://img.yad2.co.il/Pic/202511/03/2_6/o/y2_1pa_010010_20251103101950.jpeg",
+    "address": "יהודה הלוי",
+    "price": "₪ 2,600",
+    "details": "3 חדרים • קומה 2 • 53 מ״ר"
   }
 ]
