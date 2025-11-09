@@ -5438,5 +5438,21 @@
     "address": "הילדים 3",
     "price": "₪ 100",
     "details": "3 חדרים • קומה 2 • 175 מ״ר"
+  },
+  {
+    "zone": "Kiryat Motskin",
+    "url": "https://www.yad2.co.il/realestate/item/tn3wpd5f",
+    "img": "https://assets.yad2.co.il/y2_frontend/global/images/small_image_placeholder.svg",
+    "address": "משה שרת 7",
+    "price": "לא צוין מחיר",
+    "details": "2 חדרים • קומה קרקע • 30 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/vhsuyj0m",
+    "img": "https://img.yad2.co.il/Pic/202511/02/2_6/o/y2_1pa_010148_20251102181454.jpeg",
+    "address": "גיורא יוספטל 20",
+    "price": "₪ 2,000",
+    "details": "3 חדרים • קומה 2 • 70 מ״ר"
   }
 ]
