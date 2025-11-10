@@ -5550,5 +5550,13 @@
     "address": "גולן 2",
     "price": "לא צוין מחיר",
     "details": "4 חדרים • קומה 3 • 84 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/ibqstxcl",
+    "img": "https://assets.yad2.co.il/y2_frontend/global/images/small_image_placeholder.svg",
+    "address": "ברזילי 4",
+    "price": "₪ 2,550",
+    "details": "2 חדרים • קומה 4 • 40 מ״ר"
   }
 ]
