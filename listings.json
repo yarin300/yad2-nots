@@ -5622,5 +5622,21 @@
     "address": "סטרומה 9",
     "price": "₪ 1,500",
     "details": "1 חדרים • קומה 2"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/a4g787fi",
+    "img": "https://img.yad2.co.il/Pic/202511/10/2_6/o/y2_1pa_010659_20251110102018.jpeg",
+    "address": "תבור 15",
+    "price": "₪ 2,100",
+    "details": "2 חדרים • קומה 3"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/ab76ee6f",
+    "img": "https://img.yad2.co.il/Pic/202511/10/2_6/o/y2_1pa_010302_20251110163311.jpeg",
+    "address": "גיורא יוספטל 8",
+    "price": "₪ 2,400",
+    "details": "2.5 חדרים • קומה 4 • 45 מ״ר"
   }
 ]
