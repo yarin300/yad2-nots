@@ -5638,5 +5638,21 @@
     "address": "גיורא יוספטל 8",
     "price": "₪ 2,400",
     "details": "2.5 חדרים • קומה 4 • 45 מ״ר"
+  },
+  {
+    "zone": "Kiryat Motskin",
+    "url": "https://www.yad2.co.il/realestate/item/top7e1ge",
+    "img": "https://img.yad2.co.il/Pic/202511/11/2_2/o/y2_1pa_010874_20251111143408.jpeg",
+    "address": "סמ תמר 3",
+    "price": "₪ 2,600",
+    "details": "3 חדרים • קומה 3 • 52 מ״ר"
+  },
+  {
+    "zone": "Kiryat Motskin",
+    "url": "https://www.yad2.co.il/realestate/item/mfsw7tc7",
+    "img": "https://assets.yad2.co.il/y2_frontend/global/images/small_image_placeholder.svg",
+    "address": "לאה גולדברג 4",
+    "price": "לא צוין מחיר",
+    "details": "3 חדרים • קומה 1 • 9 מ״ר"
   }
 ]
