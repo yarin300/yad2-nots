@@ -5782,5 +5782,21 @@
     "address": "מרכז העיר, סביניה, הוותיקה",
     "price": "₪ 2,600",
     "details": "1 חדרים • קומה קרקע • 30 מ״ר"
+  },
+  {
+    "zone": "Kiryat Motskin",
+    "url": "https://www.yad2.co.il/realestate/item/mpd2isyz",
+    "img": "https://img.yad2.co.il/Pic/202511/14/2_6/o/y2_1pa_010425_20251114143655.jpeg",
+    "address": "דרך עכו חיפה",
+    "price": "₪ 2,000",
+    "details": "2.5 חדרים • קומה 1 • 60 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/prs100bm",
+    "img": "https://img.yad2.co.il/Pic/202511/14/2_2/o/y2_1pa_010402_20251114141457.jpeg",
+    "address": "זלמן שז\"ר 26",
+    "price": "לא צוין מחיר",
+    "details": "4.5 חדרים • קומה 3 • 110 מ״ר"
   }
 ]
