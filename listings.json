@@ -5886,5 +5886,21 @@
     "address": "דרך עכו חיפה 2",
     "price": "₪ 2,700",
     "details": "2 חדרים • קומה 3 • 50 מ״ר"
+  },
+  {
+    "zone": "Kiryat Motskin",
+    "url": "https://www.yad2.co.il/realestate/item/yudciizx",
+    "img": "https://img.yad2.co.il/Pic/202511/17/2_6/o/y2_1pa_010673_20251117132727.jpeg",
+    "address": "שדרות וייצמן 52",
+    "price": "₪ 2,600",
+    "details": "2 חדרים • קומה 4 • 50 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/3tl1g5ij",
+    "img": "https://img.yad2.co.il/Pic/202511/16/2_6/o/y2_1pa_010798_20251116111722.jpeg",
+    "address": "שיכון צבא קבע 5",
+    "price": "₪ 2,200",
+    "details": "3.5 חדרים • קומה 4 • 65 מ״ר"
   }
 ]
