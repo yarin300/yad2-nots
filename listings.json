@@ -6142,5 +6142,29 @@
     "address": "לכיש 58",
     "price": "לא צוין מחיר",
     "details": "2 חדרים • קומה 3 • 45 מ״ר"
+  },
+  {
+    "zone": "Kiryat Motskin",
+    "url": "https://www.yad2.co.il/realestate/item/c3q5r0pi",
+    "img": "https://img.yad2.co.il/Pic/202511/24/2_2/o/y2_1pa_010982_20251124142025.jpeg",
+    "address": "חנה סנש 4",
+    "price": "₪ 2,600",
+    "details": "1 חדרים • קומה 1 • 50 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/i55ym6pl",
+    "img": "https://img.yad2.co.il/Pic/202511/21/2_6/o/y2_1pa_010235_20251121125728.jpeg",
+    "address": "משה שפירא 4",
+    "price": "₪ 2,300",
+    "details": "3 חדרים • קומה 2 • 70 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/xsk93ijp",
+    "img": "https://img.yad2.co.il/Pic/202510/28/2_6/o/y2_1_TmkBfLePvm_20251028.jpeg",
+    "address": "אלי כהן 35",
+    "price": "₪ 2,650",
+    "details": "3 חדרים • קומה 2 • 65 מ״ר"
   }
 ]
