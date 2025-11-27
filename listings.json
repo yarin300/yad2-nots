@@ -6398,5 +6398,21 @@
     "address": "ציפורן 2",
     "price": "₪ 2,300",
     "details": "2.5 חדרים • קומה קרקע • 70 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/6uc8xo18",
+    "img": "https://img.yad2.co.il/Pic/202511/27/2_6/o/y2_1pa_010675_20251127100552.jpeg",
+    "address": "שדרות ההסתדרות 13",
+    "price": "₪ 2,200",
+    "details": "2 חדרים • קומה 4 • 45 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/e22xmsdq",
+    "img": "https://img.yad2.co.il/Pic/202511/27/2_6/o/y2_1pa_010511_20251127184512.jpeg",
+    "address": "שדרות ירושלים 37",
+    "price": "₪ 2,100",
+    "details": "2 חדרים • קומה 4 • 25 מ״ר"
   }
 ]
