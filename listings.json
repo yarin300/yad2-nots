@@ -6342,5 +6342,29 @@
     "address": "חנה סנש",
     "price": "₪ 2,100",
     "details": "2 חדרים • קומה 1 • 50 מ״ר"
+  },
+  {
+    "zone": "Bialik - Vatika",
+    "url": "https://www.yad2.co.il/realestate/item/zhbo5hoq",
+    "img": "https://assets.yad2.co.il/y2_frontend/global/images/small_image_placeholder.svg",
+    "address": "דרך עכו חיפה 190",
+    "price": "₪ 2,500",
+    "details": "1.5 חדרים • קומה 1 • 34 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/onouiebt",
+    "img": "https://img.yad2.co.il/Pic/202511/27/2_6/o/y2_1pa_010947_20251127095403.jpeg",
+    "address": "שדרות ירושלים",
+    "price": "₪ 2,200",
+    "details": "2 חדרים • קומה 4 • 45 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/2l1nfmsz",
+    "img": "https://img.yad2.co.il/Pic/202511/27/2_6/o/y2_1pa_010920_20251127095001.jpeg",
+    "address": "שדרות ההסתדרות 12",
+    "price": "₪ 2,200",
+    "details": "2 חדרים • קומה 4 • 45 מ״ר"
   }
 ]
