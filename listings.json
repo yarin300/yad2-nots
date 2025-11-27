@@ -6302,5 +6302,21 @@
     "address": "אלי כהן 12",
     "price": "₪ 2,600",
     "details": "2 חדרים • קומה 2 • 40 מ״ר"
+  },
+  {
+    "zone": "Bialik - Vatika",
+    "url": "https://www.yad2.co.il/realestate/item/82wtsjz3",
+    "img": "https://img.yad2.co.il/Pic/202511/27/2_2/o/y2_1pa_010376_20251127000313.jpeg",
+    "address": "זבולון 1",
+    "price": "₪ 2,700",
+    "details": "3 חדרים • קומה 2 • 70 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/szjuje8v",
+    "img": "https://img.yad2.co.il/Pic/202511/12/2_2/o/y2_1_05328_20251112134341.jpeg",
+    "address": "גיורא יוספטל 40",
+    "price": "₪ 2,600",
+    "details": "3 חדרים • קומה 3 • 55 מ״ר"
   }
 ]
