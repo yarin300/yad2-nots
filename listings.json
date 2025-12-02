@@ -6534,5 +6534,21 @@
     "address": "דן 9",
     "price": "₪ 100",
     "details": "2 חדרים • קומה קרקע • 56 מ״ר"
+  },
+  {
+    "zone": "Kiryat Motskin",
+    "url": "https://www.yad2.co.il/realestate/item/22z42jd8",
+    "img": "https://img.yad2.co.il/Pic/202512/02/2_6/o/y2_1pa_010232_20251202132708.jpeg",
+    "address": "הירדן 11",
+    "price": "₪ 2,300",
+    "details": "2 חדרים • קומה 1 • 45 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/7fs3oc4a",
+    "img": "https://img.yad2.co.il/Pic/202509/04/2_6/o/y2_1pa_010606_20250904141006.jpeg",
+    "address": "שדרות וייצמן",
+    "price": "₪ 2,200",
+    "details": "2 חדרים • קומה 1 • 50 מ״ר"
   }
 ]
