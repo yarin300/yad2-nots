@@ -6550,5 +6550,29 @@
     "address": "שדרות וייצמן",
     "price": "₪ 2,200",
     "details": "2 חדרים • קומה 1 • 50 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/3e6ipfmf",
+    "img": "https://assets.yad2.co.il/y2_frontend/global/images/small_image_placeholder.svg",
+    "address": "גיורא יוספטל 19",
+    "price": "₪ 2,500",
+    "details": "3 חדרים • קומה 2 • 60 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/5yu3zru4",
+    "img": "https://img.yad2.co.il/Pic/202504/20/2_6/o/y2_1pa_010082_20250420095850.jpeg",
+    "address": "גיורא יוספטל",
+    "price": "₪ 2,000",
+    "details": "3 חדרים • קומה 3 • 70 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/73vraxef",
+    "img": "https://img.yad2.co.il/Pic/202511/30/2_6/o/y2_1pa_010839_20251130165903.jpeg",
+    "address": "שדרות הנרייטה סולד 50",
+    "price": "₪ 2,700",
+    "details": "2 חדרים • קומה 3 • 25 מ״ר"
   }
 ]
