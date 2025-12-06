@@ -7006,5 +7006,21 @@
     "address": "החשמונאים 47",
     "price": "₪ 2,700",
     "details": "2 חדרים • קומה 5 • 35 מ״ר"
+  },
+  {
+    "zone": "Kiryat Motskin",
+    "url": "https://www.yad2.co.il/realestate/item/ljdlzvu7",
+    "img": "https://img.yad2.co.il/Pic/202512/06/2_2/o/y2_1pa_010532_20251206190543.jpeg",
+    "address": "דרך עכו חיפה 107",
+    "price": "₪ 2,400",
+    "details": "2 חדרים • קומה 3 • 35 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/a72lvkto",
+    "img": "https://img.yad2.co.il/Pic/202512/06/2_2/o/y2_1pa_010737_20251206185050.jpeg",
+    "address": "גיורא יוספטל 13",
+    "price": "₪ 1,800",
+    "details": "3 חדרים • קומה 3 • 56 מ״ר"
   }
 ]
