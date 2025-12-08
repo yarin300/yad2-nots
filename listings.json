@@ -7094,5 +7094,21 @@
     "address": "חנה סנש 10",
     "price": "₪ 2,200",
     "details": "2.5 חדרים • קומה 1 • 40 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/vmuxs3t8",
+    "img": "https://assets.yad2.co.il/y2_frontend/global/images/small_image_placeholder.svg",
+    "address": "הרמב\"ם 15",
+    "price": "₪ 2,600",
+    "details": "2 חדרים • קומה קרקע • 65 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/niuf1z8d",
+    "img": "https://img.yad2.co.il/Pic/202512/08/2_2/o/y2_1pa_010119_20251208000602.jpeg",
+    "address": "שדרות משה שרת 69",
+    "price": "₪ 2,200",
+    "details": "2 חדרים • קומה 4 • 40 מ״ר"
   }
 ]
