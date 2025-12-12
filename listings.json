@@ -7302,5 +7302,29 @@
     "address": "החשמונאים",
     "price": "₪ 1,500",
     "details": "1.5 חדרים • קומה 1 • 30 מ״ר"
+  },
+  {
+    "zone": "Kiryat Motskin",
+    "url": "https://www.yad2.co.il/realestate/item/cdo8ejs3",
+    "img": "https://img.yad2.co.il/Pic/202506/24/2_6/o/y2_1pa_010646_20250624003747.jpeg",
+    "address": "ז'בוטינסקי 39",
+    "price": "₪ 2,700",
+    "details": "3 חדרים • קומה 3 • 75 מ״ר"
+  },
+  {
+    "zone": "Kiryat Motskin",
+    "url": "https://www.yad2.co.il/realestate/item/t68olg5u",
+    "img": "https://img.yad2.co.il/Pic/202505/17/2_6/o/y2_1pa_998431_20250517212225.jpeg",
+    "address": "ז'בוטינסקי 39",
+    "price": "₪ 2,700",
+    "details": "3 חדרים • קומה 3 • 75 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/6yq1p26x",
+    "img": "https://img.yad2.co.il/Pic/202511/10/2_6/o/y2_1pa_010278_20251110095519.jpeg",
+    "address": "שדרות פנחס ספיר 7",
+    "price": "לא צוין מחיר",
+    "details": "3 חדרים • קומה 1 • 70 מ״ר"
   }
 ]
