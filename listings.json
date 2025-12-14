@@ -7390,5 +7390,29 @@
     "address": "קדיש לוז 54",
     "price": "₪ 2,500",
     "details": "3 חדרים • קומה 3 • 80 מ״ר"
+  },
+  {
+    "zone": "Kiryat Motskin",
+    "url": "https://www.yad2.co.il/realestate/item/0gt5uo55",
+    "img": "https://img.yad2.co.il/Pic/202511/14/2_2/o/y2_1pa_010828_20251114124818.jpeg",
+    "address": "החשמונאים 18",
+    "price": "₪ 2,345",
+    "details": "2 חדרים • קומה 4 • 40 מ״ר"
+  },
+  {
+    "zone": "Kiryat Motskin",
+    "url": "https://www.yad2.co.il/realestate/item/re8plc8o",
+    "img": "https://img.yad2.co.il/Pic/202512/14/2_6/o/y2_1pa_010575_20251214094513.jpeg",
+    "address": "הרב בר אילן",
+    "price": "₪ 2,000",
+    "details": "1.5 חדרים • קומה 2 • 30 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/gjwquv0a",
+    "img": "https://img.yad2.co.il/Pic/202512/14/2_2/o/y2_1pa_010453_20251214125646.jpeg",
+    "address": "הרמב\"ם 6",
+    "price": "₪ 1,500",
+    "details": "2 חדרים • קומה קרקע • 25 מ״ר"
   }
 ]
