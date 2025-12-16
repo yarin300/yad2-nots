@@ -7558,5 +7558,21 @@
     "address": "גיורא יוספטל 9",
     "price": "₪ 2,400",
     "details": "2.5 חדרים • קומה קרקע • 60 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/kzge5zfy",
+    "img": "https://img.yad2.co.il/Pic/202512/16/2_2/o/y2_1pa_010915_20251216130550.jpeg",
+    "address": "משה שפירא 6",
+    "price": "₪ 2,500",
+    "details": "3 חדרים • קומה 4 • 60 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/1lkpswqs",
+    "img": "https://img.yad2.co.il/Pic/202512/15/2_6/o/y2_1pa_010196_20251215131811.jpeg",
+    "address": "בורוכוב 10",
+    "price": "₪ 2,200",
+    "details": "1 חדרים • קומה קרקע • 40 מ״ר"
   }
 ]
