@@ -7830,5 +7830,29 @@
     "address": "גיורא יוספטל",
     "price": "₪ 2,700",
     "details": "3 חדרים • קומה 2 • 67 מ״ר"
+  },
+  {
+    "zone": "Bialik - Vatika",
+    "url": "https://www.yad2.co.il/realestate/item/vgdy6i6a",
+    "img": "https://img.yad2.co.il/Pic/202512/22/2_2/o/y2_1pa_010564_20251222154936.jpeg",
+    "address": "הדקלים 19",
+    "price": "לא צוין מחיר",
+    "details": "4 חדרים • קומה 3 • 110 מ״ר"
+  },
+  {
+    "zone": "Kiryat Motskin",
+    "url": "https://www.yad2.co.il/realestate/item/lvrdbviw",
+    "img": "https://img.yad2.co.il/Pic/202512/22/2_2/o/y2_1pa_010527_20251222163127.jpeg",
+    "address": "אירוס 2",
+    "price": "₪ 1,850",
+    "details": "1.5 חדרים • קומה 2 • 30 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/fpzoaolj",
+    "img": "https://img.yad2.co.il/Pic/202512/22/2_6/o/y2_1pa_010750_20251222125400.jpeg",
+    "address": "החשמונאים 3",
+    "price": "₪ 1,600",
+    "details": "1 חדרים • קומה 1 • 40 מ״ר"
   }
 ]
