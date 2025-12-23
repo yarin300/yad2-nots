@@ -7894,5 +7894,21 @@
     "address": "יששכר",
     "price": "₪ 1,700",
     "details": "1 חדרים • קומה 1 • 30 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/5x0blotl",
+    "img": "https://img.yad2.co.il/Pic/202510/31/2_2/o/y2_1pa_010821_20251031121532.jpeg",
+    "address": "שדרות ירושלים 66",
+    "price": "לא צוין מחיר",
+    "details": "3 חדרים • קומה 4 • 65 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/3zrid9y1",
+    "img": "https://img.yad2.co.il/Pic/202512/22/2_6/o/y2_1pa_010911_20251222131103.jpeg",
+    "address": "שבטי ישראל 3",
+    "price": "₪ 2,300",
+    "details": "2 חדרים • קומה 1 • 50 מ״ר"
   }
 ]
