@@ -8086,5 +8086,21 @@
     "address": "לכיש",
     "price": "₪ 2,200",
     "details": "2 חדרים • קומה 3 • 54 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/80w6n2fb",
+    "img": "https://img.yad2.co.il/Pic/202512/28/2_2/o/y2_1pa_010569_20251228184230.jpeg",
+    "address": "גיורא יוספטל 21",
+    "price": "₪ 2,400",
+    "details": "2 חדרים • קומה 2 • 45 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/mhus92b3",
+    "img": "https://img.yad2.co.il/Pic/202512/28/2_6/o/y2_1pa_010285_20251228142613.jpeg",
+    "address": "שדרות הנרייטה סולד 25",
+    "price": "₪ 2,000",
+    "details": "2 חדרים • קומה 3 • 40 מ״ר"
   }
 ]
