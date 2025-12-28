@@ -8070,5 +8070,21 @@
     "address": "שביל סביון 1",
     "price": "₪ 2,700",
     "details": "3.5 חדרים • קומה 4 • 75 מ״ר"
+  },
+  {
+    "zone": "Kiryat Motskin",
+    "url": "https://www.yad2.co.il/realestate/item/r0lg7z13",
+    "img": "https://img.yad2.co.il/Pic/202311/19/2_6/o/y2_1_997792_20231119.jpg",
+    "address": "דרך עכו חיפה 37",
+    "price": "₪ 2,600",
+    "details": "2 חדרים • קומה 3 • 60 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/e251xsp3",
+    "img": "https://img.yad2.co.il/Pic/202512/28/2_6/o/y2_1_993746_20251228.jpeg",
+    "address": "לכיש",
+    "price": "₪ 2,200",
+    "details": "2 חדרים • קומה 3 • 54 מ״ר"
   }
 ]
