@@ -8854,5 +8854,21 @@
     "address": "המלך דוד",
     "price": "₪ 2,000",
     "details": "2 חדרים • קומה קרקע • 30 מ״ר"
+  },
+  {
+    "zone": "Bialik - Vatika",
+    "url": "https://www.yad2.co.il/realestate/item/hvan3355",
+    "img": "https://img.yad2.co.il/Pic/202601/11/2_2/o/y2_1pa_010370_20260111192859.jpeg",
+    "address": "אשל 7",
+    "price": "₪ 2,680",
+    "details": "1.5 חדרים • קומה קרקע • 80 מ״ר"
+  },
+  {
+    "zone": "Kiryat Motskin",
+    "url": "https://www.yad2.co.il/realestate/item/uz365dwj",
+    "img": "https://img.yad2.co.il/Pic/202601/11/2_2/o/y2_1pa_010113_20260111190634.jpeg",
+    "address": "גרושקביץ' 2",
+    "price": "₪ 900",
+    "details": "1 חדרים • קומה קרקע • 10 מ״ר"
   }
 ]
