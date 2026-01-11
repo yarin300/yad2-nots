@@ -8790,5 +8790,21 @@
     "address": "יצחק בן צבי 18",
     "price": "לא צוין מחיר",
     "details": "3 חדרים • קומה 2 • 1 מ״ר"
+  },
+  {
+    "zone": "Kiryat Motskin",
+    "url": "https://www.yad2.co.il/realestate/item/9c4vg00n",
+    "img": "https://img.yad2.co.il/Pic/202601/11/2_2/o/y2_1pa_010408_20260111084207.jpeg",
+    "address": "שביל כלנית 7",
+    "price": "₪ 2,500",
+    "details": "2.5 חדרים • קומה 2 • 70 מ״ר"
+  },
+  {
+    "zone": "Kiryat Motskin",
+    "url": "https://www.yad2.co.il/realestate/item/r6b6p7q3",
+    "img": "https://assets.yad2.co.il/y2_frontend/global/images/small_image_placeholder.svg",
+    "address": "מוצקין הותיקה",
+    "price": "₪ 2,650",
+    "details": "3 חדרים • קומה 2 • 70 מ״ר"
   }
 ]
