@@ -9366,5 +9366,21 @@
     "address": "חנה סנש",
     "price": "₪ 1,900",
     "details": "1.5 חדרים • קומה 2 • 30 מ״ר"
+  },
+  {
+    "zone": "Kiryat Motskin",
+    "url": "https://www.yad2.co.il/realestate/item/vy80jlml",
+    "img": "https://assets.yad2.co.il/y2_frontend/global/images/small_image_placeholder.svg",
+    "address": "שדרות קק\"ל 40",
+    "price": "₪ 1,600",
+    "details": "1 חדרים • קומה 1 • 23 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/wurbfq4r",
+    "img": "https://img.yad2.co.il/Pic/202601/21/2_2/o/y2_1pa_010615_20260121120612.jpeg",
+    "address": "משה שפירא 4",
+    "price": "₪ 2,450",
+    "details": "3 חדרים • קומה 4 • 60 מ״ר"
   }
 ]
