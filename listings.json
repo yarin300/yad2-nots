@@ -9534,5 +9534,21 @@
     "address": "הרב בר אילן 3",
     "price": "₪ 2,600",
     "details": "2 חדרים • קומה 1 • 40 מ״ר"
+  },
+  {
+    "zone": "Bialik - Vatika",
+    "url": "https://www.yad2.co.il/realestate/item/7o0ghg20",
+    "img": "https://img.yad2.co.il/Pic/202601/25/2_2/o/y2_2pa_010734_20260125162402.jpeg",
+    "address": "דרך עכו חיפה 172",
+    "price": "₪ 2,500",
+    "details": "2 חדרים • קומה 3 • 40 מ״ר"
+  },
+  {
+    "zone": "Kiryat Motskin",
+    "url": "https://www.yad2.co.il/realestate/item/0x38d78p",
+    "img": "https://img.yad2.co.il/Pic/202401/16/2_6/o/y2_1_996352_20240116.jpg",
+    "address": "דרך עכו חיפה 29",
+    "price": "₪ 2,600",
+    "details": "2 חדרים • קומה 3 • 55 מ״ר"
   }
 ]
