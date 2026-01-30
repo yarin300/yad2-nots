@@ -9734,5 +9734,21 @@
     "address": "הרמב\"ם",
     "price": "₪ 2,700",
     "details": "2 חדרים • קומה קרקע • 40 מ״ר"
+  },
+  {
+    "zone": "Kiryat Motskin",
+    "url": "https://www.yad2.co.il/realestate/item/5ysl8dnn",
+    "img": "https://assets.yad2.co.il/y2_frontend/global/images/small_image_placeholder.svg",
+    "address": "דרך עכו חיפה 173",
+    "price": "₪ 300",
+    "details": "1 חדרים • קומה קרקע • 10 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/miylqtcs",
+    "img": "https://assets.yad2.co.il/y2_frontend/global/images/small_image_placeholder.svg",
+    "address": "הדרים 1",
+    "price": "₪ 400",
+    "details": "1 חדרים • קומה קרקע • 9 מ״ר"
   }
 ]
