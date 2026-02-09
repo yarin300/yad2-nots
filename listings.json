@@ -10198,5 +10198,21 @@
     "address": "שדרות ההסתדרות 13",
     "price": "₪ 2,400",
     "details": "2 חדרים • קומה 2 • 40 מ״ר"
+  },
+  {
+    "zone": "Kiryat Motskin",
+    "url": "https://www.yad2.co.il/realestate/item/8q30f2qx",
+    "img": "https://img.yad2.co.il/Pic/202602/08/2_2/o/y2_1_03962_20260208214724.jpeg",
+    "address": "הרב בר אילן 7",
+    "price": "₪ 2,500",
+    "details": "1 חדרים • קומה 1 • 40 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/vbb5ebgy",
+    "img": "https://img.yad2.co.il/Pic/202602/08/2_2/o/y2_1pa_010212_20260208232808.jpeg",
+    "address": "שמעון 2",
+    "price": "לא צוין מחיר",
+    "details": "2 חדרים • קומה קרקע • 57 מ״ר"
   }
 ]
