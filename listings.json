@@ -10302,5 +10302,29 @@
     "address": "פנקס 3",
     "price": "₪ 2,500",
     "details": "2 חדרים • קומה 1 • 36 מ״ר"
+  },
+  {
+    "zone": "Kiryat Motskin",
+    "url": "https://www.yad2.co.il/realestate/item/3xund1y4",
+    "img": "https://img.yad2.co.il/Pic/202602/10/2_2/o/y2_1pa_010264_20260210180621.jpeg",
+    "address": "אירוס 4",
+    "price": "₪ 1,850",
+    "details": "1 חדרים • קומה 2 • 30 מ״ר"
+  },
+  {
+    "zone": "Kiryat Motskin",
+    "url": "https://www.yad2.co.il/realestate/item/wf55u24j",
+    "img": "https://assets.yad2.co.il/y2_frontend/global/images/small_image_placeholder.svg",
+    "address": "שדרות גושן 64",
+    "price": "₪ 1,950",
+    "details": "2 חדרים • קומה 2 • 38 מ״ר"
+  },
+  {
+    "zone": "Kiryat Motskin",
+    "url": "https://www.yad2.co.il/realestate/item/le7nsxp0",
+    "img": "https://img.yad2.co.il/Pic/202602/10/2_6/o/y2_1pa_010592_20260210145617.jpeg",
+    "address": "דרך עכו חיפה 235",
+    "price": "₪ 1,500",
+    "details": "1 חדרים • קומה 4 • 35 מ״ר"
   }
 ]
