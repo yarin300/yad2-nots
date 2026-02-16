@@ -10494,5 +10494,29 @@
     "address": "שביל הגפן 5",
     "price": "לא צוין מחיר",
     "details": "3 חדרים • קומה 2 • 73 מ״ר"
+  },
+  {
+    "zone": "Kiryat Motskin",
+    "url": "https://www.yad2.co.il/realestate/item/a323tm58",
+    "img": "https://assets.yad2.co.il/y2_frontend/global/images/small_image_placeholder.svg",
+    "address": "שדרות גושן 38",
+    "price": "₪ 800",
+    "details": "1 חדרים • קומה קרקע • 6 מ״ר"
+  },
+  {
+    "zone": "Kiryat Motskin",
+    "url": "https://www.yad2.co.il/realestate/item/5v53wmtu",
+    "img": "https://img.yad2.co.il/Pic/202602/15/2_2/o/y2_1pa_010310_20260215201235.jpeg",
+    "address": "קדיש לוז 43",
+    "price": "₪ 1,700",
+    "details": "4 חדרים • קומה 4 • 95 מ״ר"
+  },
+  {
+    "zone": "Kiryat Motskin",
+    "url": "https://www.yad2.co.il/realestate/item/sv548vpn",
+    "img": "https://img.yad2.co.il/Pic/202203/08/2_6/o/y2_1_OgpvJfOoF4_20220308.jpg",
+    "address": "טרומפלדור 3",
+    "price": "₪ 2,300",
+    "details": "2 חדרים • קומה 1 • 40 מ״ר"
   }
 ]
