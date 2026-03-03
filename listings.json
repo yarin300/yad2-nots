@@ -12358,5 +12358,21 @@
     "address": "יצחק בן צבי",
     "price": "₪ 2,500",
     "details": "3 חדרים • קומה 4 • 70 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/coastal-north/h3git9b6",
+    "img": "https://img.yad2.co.il/Pic/202602/23/2_6/o/y2_1pa_010619_20260223195507.jpeg",
+    "address": "קרית ים ג'",
+    "price": "₪ 2,400",
+    "details": "1.5 חדרים • קומה קרקע • 45 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/coastal-north/d9jjff2j",
+    "img": "https://img.yad2.co.il/Pic/202602/10/2_6/o/y2_1pa_09999_20260210154837.jpeg",
+    "address": "מוהליבר",
+    "price": "₪ 2,000",
+    "details": "2 חדרים • קומה 1 • 42 מ״ר"
   }
 ]
