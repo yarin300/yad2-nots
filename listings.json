@@ -12374,5 +12374,61 @@
     "address": "מוהליבר",
     "price": "₪ 2,000",
     "details": "2 חדרים • קומה 1 • 42 מ״ר"
+  },
+  {
+    "zone": "Kiryat Motskin",
+    "url": "https://www.yad2.co.il/realestate/item/coastal-north/0x38d78p",
+    "img": "https://img.yad2.co.il/Pic/202602/15/2_6/o/y2_1_m_lDPdKNIZ_20260215.jpg",
+    "address": "דרך עכו חיפה 29",
+    "price": "₪ 2,500",
+    "details": "2 חדרים • קומה 3 • 55 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/coastal-north/ph98cfwf",
+    "img": "https://img.yad2.co.il/Pic/202601/19/2_6/o/y2_1pa_010992_20260119134601.jpeg",
+    "address": "שדרות משה שרת 79",
+    "price": "₪ 2,100",
+    "details": "2 חדרים • קומה 4 • 45 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/coastal-north/dh74vgl2",
+    "img": "https://img.yad2.co.il/Pic/202602/17/2_6/o/y2_1pa_010235_20260217132059.jpeg",
+    "address": "פינסקר",
+    "price": "₪ 1,800",
+    "details": "1 חדרים • קומה קרקע • 30 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/coastal-north/e8xxj65d",
+    "img": "https://img.yad2.co.il/Pic/202601/05/2_6/o/y2_1pa_010763_20260105103719.jpeg",
+    "address": "יצחק בן צבי",
+    "price": "₪ 2,300",
+    "details": "2 חדרים • קומה 4 • 40 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/coastal-north/ndgj46yu",
+    "img": "https://img.yad2.co.il/Pic/202602/25/2_6/o/y2_1pa_010648_20260225114053.jpeg",
+    "address": "פינסקר",
+    "price": "₪ 2,300",
+    "details": "2 חדרים • קומה קרקע • 105 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/coastal-north/6h3eqvtg",
+    "img": "https://img.yad2.co.il/Pic/202602/24/2_6/o/y2_1pa_010931_20260224194145.jpeg",
+    "address": "הראשונים 7",
+    "price": "₪ 1,700",
+    "details": "1.5 חדרים • קומה 2 • 35 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/coastal-north/b0dmc4dx",
+    "img": "https://img.yad2.co.il/Pic/202511/25/2_6/o/y2_1_WeQKV2ICgm_20251125.jpeg",
+    "address": "דירה",
+    "price": "₪ 2,000",
+    "details": "2 חדרים • קומה 1 • 40 מ״ר"
   }
 ]
