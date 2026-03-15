@@ -13118,5 +13118,21 @@
     "address": "פינסקר 4",
     "price": "₪ 1,800",
     "details": "1.5 חדרים • קומה 1 • 32 מ״ר"
+  },
+  {
+    "zone": "Kiryat Motskin",
+    "url": "https://www.yad2.co.il/realestate/item/coastal-north/aye6p3jo",
+    "img": "https://img.yad2.co.il/Pic/202603/15/2_6/o/y2_1pa_010043_20260315105443.jpeg",
+    "address": "שפרינצק 35",
+    "price": "₪ 2,500",
+    "details": "2.5 חדרים • קומה 3 • 65 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/coastal-north/gry1dysx",
+    "img": "https://img.yad2.co.il/Pic/202603/15/2_6/o/y2_1pa_010098_20260315110415.jpeg",
+    "address": "שדרות משה שרת 79",
+    "price": "₪ 2,000",
+    "details": "2 חדרים • קומה 4 • 40 מ״ר"
   }
 ]
