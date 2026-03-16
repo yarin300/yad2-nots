@@ -13230,5 +13230,37 @@
     "address": "החשמונאים 54",
     "price": "₪ 2,550",
     "details": "3.5 חדרים • קומה 4 • 80 מ״ר"
+  },
+  {
+    "zone": "Bialik - Vatika",
+    "url": "https://www.yad2.co.il/realestate/item/coastal-north/g7xguscw",
+    "img": "https://img.yad2.co.il/Pic/202603/16/2_2/o/y2_1pa_010467_20260316170918.jpeg",
+    "address": "דרך עכו חיפה 54",
+    "price": "₪ 2,700",
+    "details": "2 חדרים • קומה 3 • 1 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/coastal-north/956y8li2",
+    "img": "https://img.yad2.co.il/Pic/202603/15/2_6/o/y2_1pa_010570_20260315131816.jpeg",
+    "address": "אלי כהן 7",
+    "price": "₪ 2,700",
+    "details": "3 חדרים • קומה 1 • 75 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/coastal-north/g4wic3wx",
+    "img": "https://img.yad2.co.il/Pic/202603/15/2_6/o/y2_1pa_010556_20260315132109.jpeg",
+    "address": "אלי כהן 7",
+    "price": "₪ 2,700",
+    "details": "3 חדרים • קומה 1 • 75 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/coastal-north/qenrkaxn",
+    "img": "https://img.yad2.co.il/Pic/202603/15/2_6/o/y2_1pa_010675_20260315131638.jpeg",
+    "address": "אלי כהן 7",
+    "price": "₪ 2,700",
+    "details": "3 חדרים • קומה 1 • 75 מ״ר"
   }
 ]
