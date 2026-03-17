@@ -13358,5 +13358,21 @@
     "address": "שדרות משה שרת 79",
     "price": "₪ 2,000",
     "details": "2 חדרים • קומה 4 • 40 מ״ר"
+  },
+  {
+    "zone": "Kiryat Motskin",
+    "url": "https://www.yad2.co.il/realestate/item/coastal-north/92e073ju",
+    "img": "https://img.yad2.co.il/Pic/202603/17/2_6/o/y2_1pa_010770_20260317134936.jpeg",
+    "address": "גן העצמאות",
+    "price": "₪ 2,100",
+    "details": "2 חדרים • קומה 1 • 40 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/coastal-north/ohg465ke",
+    "img": "https://img.yad2.co.il/Pic/202603/17/2_2/o/y2_1pa_010328_20260317133440.jpeg",
+    "address": "גיורא יוספטל 13",
+    "price": "₪ 2,200",
+    "details": "3 חדרים • קומה 2 • 60 מ״ר"
   }
 ]
