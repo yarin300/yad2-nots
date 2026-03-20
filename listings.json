@@ -13542,5 +13542,21 @@
     "address": "פינסקר 14",
     "price": "לא צוין מחיר",
     "details": "2.5 חדרים • קומה קרקע • 41 מ״ר"
+  },
+  {
+    "zone": "Kiryat Motskin",
+    "url": "https://www.yad2.co.il/realestate/item/coastal-north/plvygzpj",
+    "img": "https://img.yad2.co.il/Pic/202603/20/2_6/o/y2_1pa_010251_20260320092032.jpeg",
+    "address": "הרב בר אילן 1",
+    "price": "₪ 2,000",
+    "details": "1.5 חדרים • קומה 1 • 30 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/coastal-north/4832l0ub",
+    "img": "https://img.yad2.co.il/Pic/202603/18/2_6/o/y2_1pa_010220_20260318123848.jpeg",
+    "address": "שפרינצק 2",
+    "price": "₪ 2,300",
+    "details": "3 חדרים • קומה 2 • 60 מ״ר"
   }
 ]
