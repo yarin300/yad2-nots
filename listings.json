@@ -13942,5 +13942,21 @@
     "address": "המלך דוד 14",
     "price": "₪ 1,900",
     "details": "1.5 חדרים • קומה 2 • 40 מ״ר"
+  },
+  {
+    "zone": "Kiryat Motskin",
+    "url": "https://www.yad2.co.il/realestate/item/coastal-north/sfom6iyg",
+    "img": "https://img.yad2.co.il/Pic/202603/26/2_6/o/y2_1pa_010407_20260326112609.jpeg",
+    "address": "גן העצמאות",
+    "price": "₪ 2,500",
+    "details": "2 חדרים • קומה 1 • 40 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/coastal-north/p0gyap3z",
+    "img": "https://img.yad2.co.il/Pic/202603/25/2_6/o/y2_1pa_010273_20260325113623.jpeg",
+    "address": "יהודה הלוי 3",
+    "price": "₪ 1,500",
+    "details": "1 חדרים • קומה 1 • 40 מ״ר"
   }
 ]
