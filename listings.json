@@ -14086,5 +14086,13 @@
     "address": "דירה",
     "price": "₪ 2,700",
     "details": "2 חדרים • קומה 2 • 55 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/coastal-north/xneczadm",
+    "img": "https://assets.yad2.co.il/y2_frontend/global/images/small_image_placeholder.svg",
+    "address": "טרומפלדור 1",
+    "price": "₪ 2,200",
+    "details": "1.5 חדרים • קומה 1 • 35 מ״ר"
   }
 ]
