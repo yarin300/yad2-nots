@@ -14142,5 +14142,21 @@
     "address": "שדרות ירושלים 90",
     "price": "₪ 2,350",
     "details": "2.5 חדרים • קומה 3 • 54 מ״ר"
+  },
+  {
+    "zone": "Bialik - Vatika",
+    "url": "https://www.yad2.co.il/realestate/item/coastal-north/thxwuetr",
+    "img": "https://img.yad2.co.il/Pic/202604/05/2_2/o/y2_1pa_010956_20260405110609.jpeg",
+    "address": "אפרים 4",
+    "price": "לא צוין מחיר",
+    "details": "3 חדרים • קומה 1 • 70 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/coastal-north/ib8wx60e",
+    "img": "https://img.yad2.co.il/Pic/202603/26/2_6/o/y2_1pa_010835_20260326131038.jpeg",
+    "address": "אלי כהן 7",
+    "price": "₪ 2,700",
+    "details": "3 חדרים • קומה 1 • 75 מ״ר"
   }
 ]
