@@ -14254,5 +14254,29 @@
     "address": "הירדן 15",
     "price": "₪ 2,000",
     "details": "1.5 חדרים • קומה קרקע • 40 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/coastal-north/h8y2g0jd",
+    "img": "https://img.yad2.co.il/Pic/202604/06/2_2/o/y2_1pa_010185_20260406204955.jpeg",
+    "address": "נרקיס 16",
+    "price": "₪ 2,600",
+    "details": "2 חדרים • קומה קרקע • 36 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/coastal-north/m9ad0jsj",
+    "img": "https://assets.yad2.co.il/y2_frontend/global/images/small_image_placeholder.svg",
+    "address": "תבור 12",
+    "price": "₪ 2,500",
+    "details": "2 חדרים • קומה 1 • 54 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/coastal-north/oczkgm6e",
+    "img": "https://img.yad2.co.il/Pic/202604/06/2_6/o/y2_4_OxKqTSYx16_20260406.jpg",
+    "address": "יצחק בן צבי 16",
+    "price": "₪ 2,600",
+    "details": "2 חדרים • קומה 4 • 40 מ״ר"
   }
 ]
