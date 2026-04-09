@@ -14310,5 +14310,29 @@
     "address": "צאלון 2",
     "price": "לא צוין מחיר",
     "details": "4 חדרים • קומה 3 • 112 מ״ר"
+  },
+  {
+    "zone": "Kiryat Motskin",
+    "url": "https://www.yad2.co.il/realestate/item/coastal-north/en28dj79",
+    "img": "https://img.yad2.co.il/Pic/202604/09/2_2/o/y2_1pa_010194_20260409113732.jpeg",
+    "address": "הרב קוק 34",
+    "price": "₪ 2,500",
+    "details": "2 חדרים • קומה 1 • 45 מ״ר"
+  },
+  {
+    "zone": "Kiryat Motskin",
+    "url": "https://www.yad2.co.il/realestate/item/coastal-north/3lgcen1q",
+    "img": "https://assets.yad2.co.il/y2_frontend/global/images/small_image_placeholder.svg",
+    "address": "דרך עכו חיפה 211",
+    "price": "₪ 2,100",
+    "details": "2 חדרים • קומה 4 • 30 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/coastal-north/ayxwkwpc",
+    "img": "https://img.yad2.co.il/Pic/202604/05/2_6/o/y2_1pa_010131_20260405130957.jpeg",
+    "address": "גיורא יוספטל 30",
+    "price": "₪ 2,300",
+    "details": "3 חדרים • קומה 4 • 40 מ״ר"
   }
 ]
