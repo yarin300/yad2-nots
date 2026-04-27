@@ -15126,5 +15126,37 @@
     "address": "משה שפירא",
     "price": "₪ 2,500",
     "details": "3 חדרים • קומה 1 • 70 מ״ר"
+  },
+  {
+    "zone": "Kiryat Motskin",
+    "url": "https://www.yad2.co.il/realestate/item/coastal-north/mebwbxir",
+    "img": "https://img.yad2.co.il/Pic/202604/27/2_6/o/y2_1pa_010707_20260427135214.jpeg",
+    "address": "דרך עכו חיפה 41",
+    "price": "₪ 2,500",
+    "details": "2 חדרים • קומה 3 • 40 מ״ר"
+  },
+  {
+    "zone": "Kiryat Motskin",
+    "url": "https://www.yad2.co.il/realestate/item/coastal-north/7gtkvnjw",
+    "img": "https://img.yad2.co.il/Pic/202604/27/2_6/o/y2_1pa_010619_20260427134817.jpeg",
+    "address": "חנה סנש 15",
+    "price": "₪ 2,000",
+    "details": "2 חדרים • קומה קרקע • 40 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/coastal-north/kh2jy6ex",
+    "img": "https://img.yad2.co.il/Pic/202604/27/2_6/o/y2_1pa_010385_20260427123832.jpeg",
+    "address": "גיורא יוספטל 13",
+    "price": "₪ 2,200",
+    "details": "3 חדרים • קומה 3 • 55 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/coastal-north/z6nkj9pl",
+    "img": "https://img.yad2.co.il/Pic/202604/27/2_6/o/y2_1pa_010462_20260427102825.jpeg",
+    "address": "שדרות ההסתדרות 13",
+    "price": "₪ 2,350",
+    "details": "2 חדרים • קומה 4 • 45 מ״ר"
   }
 ]
