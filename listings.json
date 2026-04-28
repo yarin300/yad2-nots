@@ -15158,5 +15158,37 @@
     "address": "שדרות ההסתדרות 13",
     "price": "₪ 2,350",
     "details": "2 חדרים • קומה 4 • 45 מ״ר"
+  },
+  {
+    "zone": "Kiryat Motskin",
+    "url": "https://www.yad2.co.il/realestate/item/coastal-north/qfol9yz5",
+    "img": "https://img.yad2.co.il/Pic/202604/28/2_2/o/y2_1pa_010566_20260428092504.jpeg",
+    "address": "סמטת אורן 11",
+    "price": "₪ 2,700",
+    "details": "3 חדרים • קומה 2 • 70 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/coastal-north/ufnrp6mm",
+    "img": "https://img.yad2.co.il/Pic/202604/28/2_2/o/y2_1pa_010291_20260428104738.jpeg",
+    "address": "שבטי ישראל 3",
+    "price": "₪ 1,450",
+    "details": "2 חדרים • קומה 1 • 60 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/coastal-north/b52uajkb",
+    "img": "https://img.yad2.co.il/Pic/202604/27/2_2/o/y2_1pa_010114_20260427224403.jpeg",
+    "address": "שדרות ז'בוטינסקי 20",
+    "price": "₪ 2,700",
+    "details": "3 חדרים • קומה 4 • 65 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/coastal-north/jjhoph3j",
+    "img": "https://img.yad2.co.il/Pic/202604/27/2_6/o/y2_1pa_010339_20260427110713.jpeg",
+    "address": "אלי כהן",
+    "price": "₪ 2,700",
+    "details": "3 חדרים • קומה 4 • 45 מ״ר"
   }
 ]
