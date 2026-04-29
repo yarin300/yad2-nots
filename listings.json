@@ -15334,5 +15334,21 @@
     "address": "שדרות הנרייטה סולד 50",
     "price": "₪ 2,200",
     "details": "2 חדרים • קומה 3 • 45 מ״ר"
+  },
+  {
+    "zone": "Kiryat Motskin",
+    "url": "https://www.yad2.co.il/realestate/item/coastal-north/ms6dohsx",
+    "img": "https://img.yad2.co.il/Pic/202604/29/2_2/o/y2_1pa_010788_20260429210833.jpeg",
+    "address": "דרך עכו חיפה 211",
+    "price": "₪ 1,900",
+    "details": "2 חדרים • קומה 4 • 27 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/coastal-north/fr4ucw2o",
+    "img": "https://assets.yad2.co.il/y2_frontend/global/images/small_image_placeholder.svg",
+    "address": "השופטים 16",
+    "price": "₪ 2,700",
+    "details": "2 חדרים • קומה קרקע • 60 מ״ר"
   }
 ]
