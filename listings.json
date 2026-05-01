@@ -15398,5 +15398,21 @@
     "address": "יהודה הלוי 15",
     "price": "₪ 2,500",
     "details": "2 חדרים • קומה קרקע • 55 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/coastal-north/a9acrv90",
+    "img": "https://assets.yad2.co.il/y2_frontend/global/images/small_image_placeholder.svg",
+    "address": "גיורא יוספטל 20",
+    "price": "₪ 2,300",
+    "details": "3 חדרים • קומה 2 • 76 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/coastal-north/0kpnjpgm",
+    "img": "https://assets.yad2.co.il/y2_frontend/global/images/small_image_placeholder.svg",
+    "address": "פרישמן 5",
+    "price": "₪ 2,300",
+    "details": "1.5 חדרים • קומה קרקע • 40 מ״ר"
   }
 ]
