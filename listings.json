@@ -15446,5 +15446,21 @@
     "address": "משה שפירא 4",
     "price": "₪ 1,800",
     "details": "1.5 חדרים • קומה 1 • 35 מ״ר"
+  },
+  {
+    "zone": "Kiryat Motskin",
+    "url": "https://www.yad2.co.il/realestate/item/coastal-north/7b0h2cjp",
+    "img": "https://img.yad2.co.il/Pic/202605/03/2_6/o/y2_1pa_010849_20260503131126.jpeg",
+    "address": "שדרות גושן 2",
+    "price": "₪ 1,800",
+    "details": "1 חדרים • קומה 1 • 30 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/coastal-north/zx3xuy9o",
+    "img": "https://img.yad2.co.il/Pic/202605/03/2_2/o/y2_1pa_010377_20260503123227.jpeg",
+    "address": "ישראל בר יהודה 8",
+    "price": "₪ 2,300",
+    "details": "2 חדרים • קומה 4 • 30 מ״ר"
   }
 ]
