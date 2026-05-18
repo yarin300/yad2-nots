@@ -16126,5 +16126,21 @@
     "address": "קרית ים  א'",
     "price": "₪ 2,300",
     "details": "2 חדרים • קומה קרקע • 35 מ״ר"
+  },
+  {
+    "zone": "Kiryat Motskin",
+    "url": "https://www.yad2.co.il/realestate/item/coastal-north/2jnusreu",
+    "img": "https://img.yad2.co.il/Pic/202605/18/2_2/o/y2_1pa_010320_20260518205443.jpeg",
+    "address": "שפרינצק 7",
+    "price": "₪ 2,300",
+    "details": "3 חדרים • קומה 4 • 60 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/coastal-north/xvsughdg",
+    "img": "https://img.yad2.co.il/Pic/202203/23/2_6/o/y2_1_1mZr17Nqn3_20220323.jpg",
+    "address": "שדרות ירושלים 77",
+    "price": "₪ 2,200",
+    "details": "2 חדרים • קומה 3 • 45 מ״ר"
   }
 ]
