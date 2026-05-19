@@ -16142,5 +16142,29 @@
     "address": "שדרות ירושלים 77",
     "price": "₪ 2,200",
     "details": "2 חדרים • קומה 3 • 45 מ״ר"
+  },
+  {
+    "zone": "Kiryat Motskin",
+    "url": "https://www.yad2.co.il/realestate/item/coastal-north/iy5ysf14",
+    "img": "https://img.yad2.co.il/Pic/202605/18/2_6/o/y2_1pa_010187_20260518095016.jpeg",
+    "address": "הירדן",
+    "price": "₪ 2,000",
+    "details": "1.5 חדרים • קומה 2 • 40 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/coastal-north/n409al5n",
+    "img": "https://img.yad2.co.il/Pic/202605/17/2_6/o/y2_1pa_010829_20260517160000.jpeg",
+    "address": "יהודה 6",
+    "price": "₪ 2,300",
+    "details": "3 חדרים • קומה 1 • 50 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/coastal-north/k2vvhifq",
+    "img": "https://img.yad2.co.il/Pic/202605/17/2_6/o/y2_1_XbDulN8uH9_20260517.jpg",
+    "address": "תבור 3",
+    "price": "₪ 2,100",
+    "details": "3 חדרים • קומה 3 • 68 מ״ר"
   }
 ]
