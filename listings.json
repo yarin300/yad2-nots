@@ -16166,5 +16166,21 @@
     "address": "תבור 3",
     "price": "₪ 2,100",
     "details": "3 חדרים • קומה 3 • 68 מ״ר"
+  },
+  {
+    "zone": "Kiryat Motskin",
+    "url": "https://www.yad2.co.il/realestate/item/coastal-north/69tpn3zb",
+    "img": "https://img.yad2.co.il/Pic/202605/18/2_2/o/y2_1pa_010342_20260518115955.jpeg",
+    "address": "חנה סנש 23",
+    "price": "₪ 1,800",
+    "details": "1.5 חדרים • קומה 1 • 40 מ״ר"
+  },
+  {
+    "zone": "Kiryat Yam",
+    "url": "https://www.yad2.co.il/realestate/item/coastal-north/pc74ees9",
+    "img": "https://img.yad2.co.il/Pic/202605/17/2_6/o/y2_1pa_010323_20260517190820.jpeg",
+    "address": "לכיש 56",
+    "price": "₪ 1,900",
+    "details": "2 חדרים • קומה 3 • 40 מ״ר"
   }
 ]
